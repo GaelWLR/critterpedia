@@ -7,8 +7,9 @@ import i18n from '../plugins/i18n'
  */
 function formatResourceNames(names) {
   const formattedNames = []
+  const capitalize = str => `${str.substr(0, 1).toUpperCase()}${str.substr(1)}`
   for (const index in names) {
-    formattedNames.push([index.substr(-2, 2), names[index]])
+    formattedNames.push([index.substr(-2, 2), capitalize(names[index])])
   }
 
   return new Map(formattedNames)

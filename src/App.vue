@@ -1,59 +1,51 @@
 <template>
-  <div class="app-container">
-    <nav class="app-nav">
-      <h3>Critterpedia</h3>
-      <ul>
-        <li>
-          <router-link :to="{ name: 'home' }">Home</router-link>
-        </li>
-        <li>
-          <router-link :to="{ name: 'bugs' }">Bugs</router-link>
-        </li>
-        <li>
-          <router-link :to="{ name: 'fishes' }">Fishes</router-link>
-        </li>
-        <li>
-          <router-link :to="{ name: 'fossils' }">Fossils</router-link>
-        </li>
-      </ul>
-    </nav>
-    <router-view class="view-container" />
+  <div>
+    <nav-bar class="navbar"></nav-bar>
+    <router-view class="content" />
   </div>
 </template>
 
 <script>
+import NavBar from './components/layout/NavBar'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    NavBar
+  }
 }
 </script>
 
 <style lang="scss">
+@import './assets/css/_variables.scss';
+
 html,
 body {
   margin: 0;
   padding: 0;
 }
 
-.app-container {
-  display: flex;
-  flex-direction: row;
-  gap: 1rem;
-  height: 100vh;
-}
+.navbar {
+  width: 100vw;
+  height: $navbar-size;
+  position: fixed;
+  bottom: 0;
 
-.app-nav {
-  background-color: grey;
-  padding: 1rem;
-
-  & > ul {
-    list-style: none;
-    padding: 0;
+  @media screen and (min-width: 768px) {
+    width: $navbar-size;
+    height: 100vh;
+    left: 0;
   }
 }
 
-.view-container {
-  height: 100%;
-  overflow-y: scroll;
-  flex-grow: 1;
+.content {
+  height: calc(100vh - #{$navbar-size});
+  margin-left: 0;
+  padding: 1rem;
+
+  @media screen and (min-width: 768px) {
+    height: 100vh;
+    margin-left: $navbar-size;
+  }
 }
 </style>
