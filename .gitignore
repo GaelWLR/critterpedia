@@ -4,3 +4,6 @@ node_modules
 ### Parcel ###
 .cache
 dist
+
+### Editor ###
+.idea

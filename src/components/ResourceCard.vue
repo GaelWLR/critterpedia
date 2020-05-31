@@ -61,5 +61,6 @@ export default {
 
 .content-title {
   font-weight: bolder;
+  color: $tertiary-color;
 }
 </style>

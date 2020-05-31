@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar-container">
     <router-link class="navbar-link" v-for="(link, key) in links" v-bind:key="key" :to="{ name: link.name }">
-      <i></i>
+      <i class="link-icon"><font-awesome-icon :icon="['fas', link.icon]"></font-awesome-icon></i>
       <span class="link-text">{{ link.title }}</span>
     </router-link>
   </nav>
@@ -16,22 +16,22 @@ export default {
         {
           name: 'home',
           title: 'Home',
-          icon: ''
+          icon: 'home'
         },
         {
           name: 'bugs',
           title: 'Bugs',
-          icon: ''
+          icon: 'bug'
         },
         {
           name: 'fishes',
           title: 'Fishes',
-          icon: ''
+          icon: 'fish'
         },
         {
           name: 'fossils',
           title: 'Fossils',
-          icon: ''
+          icon: 'bone'
         }
       ]
     }
@@ -51,29 +51,64 @@ export default {
   list-style: none;
   padding: 0;
   margin: 0;
+  overflow: hidden;
+  filter: grayscale(20%);
 
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: #{$tablet-breakpoint}) {
     flex-direction: column;
+    align-items: flex-start;
     justify-content: start;
+
+    &:hover {
+      .link-text {
+        display: block;
+      }
+    }
   }
 }
 
 .navbar-link {
   display: flex;
   align-items: center;
-  height: 5rem;
+  height: $navbar-size;
   text-decoration: none;
-  transition: $transition-speed;
   color: $tertiary-color;
+  filter: grayscale(20%) opacity(0.6);
+  transition: $transition-speed;
 
   &:hover {
-    color: black;
+    filter: grayscale(0%) opacity(1);
+  }
+
+  @media screen and (min-width: #{$tablet-breakpoint}) {
+    width: 100%;
   }
 }
 
 .link-icon {
+  height: $navbar-size;
+  width: $navbar-size;
+
+  & > svg {
+    height: $navbar-size / 2;
+    width: $navbar-size / 2;
+    margin: $navbar-size / 4;
+  }
 }
 
 .link-text {
+  display: none;
+  margin: 0 1rem;
+  font-size: 1.4rem;
+  font-weight: bold;
+  white-space: nowrap;
+
+  @media screen and (min-width: #{$desktop-breakpoint}) {
+    display: block;
+  }
+}
+
+.router-link-exact-active {
+  background-color: $primary-color;
 }
 </style>
