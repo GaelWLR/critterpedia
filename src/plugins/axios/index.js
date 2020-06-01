@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const acnhApi = axios.create({ baseURL: 'http://acnhapi.com/v1/' })
+const acnhApi = axios.create({ baseURL: 'http://acnhapi.com/v1a/' })
 
 const resources = {
   bugs: () => acnhApi.get('bugs'),

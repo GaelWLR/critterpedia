@@ -14,52 +14,73 @@ export default new Vuex.Store({
     fossils: []
   },
   mutations: {
+    /**
+     * @param {Object} state
+     * @param {Array} bugs
+     */
     SET_BUGS(state, bugs) {
       state.bugs = bugs
     },
+    /**
+     * @param {Object} state
+     * @param {Array} fishes
+     */
     SET_FISHES(state, fishes) {
       state.fishes = fishes
     },
+    /**
+     * @param {Object} state
+     * @param {Array} fossils
+     */
     SET_FOSSILS(state, fossils) {
       state.fossils = fossils
     }
   },
   actions: {
+    /**
+     * Get bugs from ACNHAPI and store them
+     * @param {Function} commit
+     * @param {Object} state
+     */
     async getBugs({ commit, state }) {
       if (state.bugs.length) return
 
-      const bugs = []
       const { data } = await resources.bugs()
 
-      for (const bug in data) {
-        bugs.push(new Bug(data[bug]))
-      }
-
-      commit('SET_BUGS', bugs)
+      commit(
+        'SET_BUGS',
+        data.map(bug => new Bug(bug))
+      )
     },
+    /**
+     * Get fishes from ACNHAPI and store them
+     * @param {Function} commit
+     * @param {Object} state
+     */
     async getFishes({ commit, state }) {
       if (state.fishes.length) return
 
-      const fishes = []
       const { data } = await resources.fishes()
 
-      for (const fish in data) {
-        fishes.push(new Fish(data[fish]))
-      }
-
-      commit('SET_FISHES', fishes)
+      commit(
+        'SET_FISHES',
+        data.map(fish => new Fish(fish))
+      )
     },
+    /**
+     * Get fossils from ACNHAPI and store them
+     * @param {Function} commit
+     * @param {Object} state
+     */
     async getFossils({ commit, state }) {
       if (state.fossils.length) return
 
-      const fossils = []
       const { data } = await resources.fossils()
 
-      for (const fossil in data) {
-        fossils.push(new Fossil(data[fossil]))
-      }
-
-      commit('SET_FOSSILS', fossils)
+      commit(
+        'SET_FOSSILS',
+        data.map(fossil => new Fossil(fossil))
+      )
     }
   }
 })

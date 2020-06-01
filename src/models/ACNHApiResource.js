@@ -27,9 +27,17 @@ export default class ACNHApiResource {
 
   /**
    * Returns the resource id
-   * @returns {string}
+   * @returns {number}
    */
   get id() {
+    return this.data['id']
+  }
+
+  /**
+   * Returns the resource reference
+   * @returns {string}
+   */
+  get reference() {
     return this.data['file-name']
   }
 
