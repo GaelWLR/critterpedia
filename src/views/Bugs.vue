@@ -3,7 +3,7 @@
     <h2>Bugs</h2>
     <resource-card-grid>
       <template v-for="(bug, key) in bugs" slot="cards">
-        <resource-card v-bind:key="key" :id="bug.id" :img_url="bug.icon">
+        <resource-card :key="key" :id="bug.id" :img_url="bug.icon">
           <div slot="content">
             <span class="content-title">Name :</span>
             {{ bug.name }}
@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import { mapState } from 'vuex'
+import { mapGetters } from 'vuex'
 import ResourceCardGrid from '../components/ResourceCardGrid'
 import ResourceCard from '../components/ResourceCard'
 
@@ -33,7 +33,7 @@ export default {
     ResourceCard
   },
   computed: {
-    ...mapState(['bugs'])
+    ...mapGetters(['bugs'])
   },
   created() {
     this.$store.dispatch('getBugs')

@@ -3,7 +3,7 @@
     <h2>Fossils</h2>
     <resource-card-grid>
       <template v-for="(fossil, key) in fossils" slot="cards">
-        <resource-card v-bind:key="key" :id="fossil.id" :img_url="fossil.img">
+        <resource-card :key="key" :id="fossil.id" :img_url="fossil.img">
           <div slot="content">
             <span class="content-title">Name :</span>
             <span>{{ fossil.name }}</span>
@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import { mapState } from 'vuex'
+import { mapGetters } from 'vuex'
 import ResourceCardGrid from '../components/ResourceCardGrid'
 import ResourceCard from '../components/ResourceCard'
 
@@ -30,7 +30,7 @@ export default {
     ResourceCard
   },
   computed: {
-    ...mapState(['fossils'])
+    ...mapGetters(['fossils'])
   },
   created() {
     this.$store.dispatch('getFossils')

@@ -2,16 +2,32 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import { resources } from '../plugins/axios'
 import Bug from '../models/Bug'
-import Fish from '../models/Fish'
+import fishes from './modules/fishes'
 import Fossil from '../models/Fossil'
 
 Vue.use(Vuex)
 
 export default new Vuex.Store({
+  modules: {
+    fishes
+  },
   state: {
-    bugs: [],
-    fishes: [],
-    fossils: []
+    bugs: {
+      data: [],
+      sortingOptions: [],
+      filters: [],
+      loaded: false
+    },
+    fossils: {
+      data: [],
+      sortingOptions: [],
+      filters: [],
+      loaded: false
+    }
+  },
+  getters: {
+    bugs: state => state.bugs.data,
+    fossils: state => state.fossils.data
   },
   mutations: {
     /**
@@ -19,21 +35,16 @@ export default new Vuex.Store({
      * @param {Array} bugs
      */
     SET_BUGS(state, bugs) {
-      state.bugs = bugs
-    },
-    /**
-     * @param {Object} state
-     * @param {Array} fishes
-     */
-    SET_FISHES(state, fishes) {
-      state.fishes = fishes
+      state.bugs.data = bugs
+      state.bugs.loaded = true
     },
     /**
      * @param {Object} state
      * @param {Array} fossils
      */
     SET_FOSSILS(state, fossils) {
-      state.fossils = fossils
+      state.fossils.data = fossils
+      state.fossils.loaded = true
     }
   },
   actions: {
@@ -43,7 +54,7 @@ export default new Vuex.Store({
      * @param {Object} state
      */
     async getBugs({ commit, state }) {
-      if (state.bugs.length) return
+      if (state.bugs.loaded) return
 
       const { data } = await resources.bugs()
 
@@ -53,27 +64,12 @@ export default new Vuex.Store({
       )
     },
     /**
-     * Get fishes from ACNHAPI and store them
-     * @param {Function} commit
-     * @param {Object} state
-     */
-    async getFishes({ commit, state }) {
-      if (state.fishes.length) return
-
-      const { data } = await resources.fishes()
-
-      commit(
-        'SET_FISHES',
-        data.map(fish => new Fish(fish))
-      )
-    },
-    /**
      * Get fossils from ACNHAPI and store them
      * @param {Function} commit
      * @param {Object} state
      */
     async getFossils({ commit, state }) {
-      if (state.fossils.length) return
+      if (state.fossils.loaded) return
 
       const { data } = await resources.fossils()
 

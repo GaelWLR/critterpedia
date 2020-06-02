@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar-container">
-    <router-link class="navbar-link" v-for="(link, key) in links" v-bind:key="key" :to="{ name: link.name }">
+    <router-link class="navbar-link" v-for="(link, key) in links" :key="key" :to="{ name: link.name }">
       <i class="link-icon"><font-awesome-icon :icon="['fas', link.icon]"></font-awesome-icon></i>
       <span class="link-text">{{ link.title }}</span>
     </router-link>

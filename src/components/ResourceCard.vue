@@ -14,7 +14,7 @@ export default {
   name: 'ResourceCard',
   props: {
     id: {
-      type: String,
+      type: Number,
       required: true
     },
     img_url: {

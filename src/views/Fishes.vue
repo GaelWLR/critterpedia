@@ -1,9 +1,22 @@
 <template>
   <div class="fishes-container">
     <h2>Fishes</h2>
+    <filter-bar>
+      <template slot="buttons">
+        <template v-for="(option, key) of sortingOptions">
+          <sort-button
+            :key="key"
+            :optRef="option.optRef"
+            :active="option.active"
+            :ascending="option.ascending"
+            @click.native="updateSortingOption(option.optRef)"
+          ></sort-button>
+        </template>
+      </template>
+    </filter-bar>
     <resource-card-grid>
       <template v-for="(fish, key) in fishes" slot="cards">
-        <resource-card v-bind:key="key" :id="fish.id" :img_url="fish.icon">
+        <resource-card :key="key" :id="fish.id" :img_url="fish.icon">
           <div slot="content">
             <span class="content-title">Name :</span>
             {{ fish.name }}
@@ -25,21 +38,29 @@
 </template>
 
 <script>
-import { mapState } from 'vuex'
+import { mapGetters, mapState, mapActions } from 'vuex'
+import FilterBar from '../components/FilterBar'
 import ResourceCardGrid from '../components/ResourceCardGrid'
 import ResourceCard from '../components/ResourceCard'
+import SortButton from '../components/SortButton'
 
 export default {
   name: 'Fishes',
   components: {
+    FilterBar,
     ResourceCardGrid,
-    ResourceCard
+    ResourceCard,
+    SortButton
   },
   computed: {
-    ...mapState(['fishes'])
+    ...mapState('fishes', ['sortingOptions']),
+    ...mapGetters('fishes', { fishes: 'getDataSortedAndFiltered' })
   },
-  created() {
-    this.$store.dispatch('getFishes')
+  methods: {
+    ...mapActions('fishes', ['updateSortingOption'])
+  },
+  async created() {
+    await this.$store.dispatch('fishes/loadData')
   }
 }
 </script>
