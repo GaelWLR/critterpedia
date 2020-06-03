@@ -1,6 +1,7 @@
 <template>
   <div class="fossils-container">
     <h2>Fossils</h2>
+    <filter-bar resource="fossils"></filter-bar>
     <resource-card-grid>
       <template v-for="(fossil, key) in fossils" slot="cards">
         <resource-card :key="key" :id="fossil.id" :img_url="fossil.img">
@@ -20,20 +21,22 @@
 
 <script>
 import { mapGetters } from 'vuex'
+import FilterBar from '../components/FilterBar'
 import ResourceCardGrid from '../components/ResourceCardGrid'
 import ResourceCard from '../components/ResourceCard'
 
 export default {
   name: 'Fossils',
   components: {
+    FilterBar,
     ResourceCardGrid,
     ResourceCard
   },
   computed: {
-    ...mapGetters(['fossils'])
+    ...mapGetters('fossils', { fossils: 'getDataSortedAndFiltered' })
   },
   created() {
-    this.$store.dispatch('getFossils')
+    this.$store.dispatch('fossils/loadData')
   }
 }
 </script>

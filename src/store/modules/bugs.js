@@ -1,5 +1,5 @@
-import { fishes } from '../../plugins/axios'
-import Fish from '../../models/Fish'
+import { bugs } from '../../plugins/axios'
+import Bug from '../../models/Bug'
 
 export default {
   namespaced: true,
@@ -26,38 +26,36 @@ export default {
   },
   getters: {
     /**
-     * Sorts and filters fishes before returning them
+     * Sorts and filters bugs before returning them
      * @param {Array} data
      * @param {Array} sortingOptions
      */
     getDataSortedAndFiltered: ({ data, sortingOptions }) => {
-      let fishes = data.map(fish => fish)
+      let bugs = data.map(bug => bug)
 
       for (const { active, optRef, type, ascending } of sortingOptions) {
         if (active) {
           switch (type) {
             case 'string':
-              fishes.sort((a, b) =>
-                ascending ? a[optRef].localeCompare(b[optRef]) : b[optRef].localeCompare(a[optRef])
-              )
+              bugs.sort((a, b) => (ascending ? a[optRef].localeCompare(b[optRef]) : b[optRef].localeCompare(a[optRef])))
               break
             case 'number':
-              fishes.sort((a, b) => (ascending ? a[optRef] - b[optRef] : b[optRef] - a[optRef]))
+              bugs.sort((a, b) => (ascending ? a[optRef] - b[optRef] : b[optRef] - a[optRef]))
               break
           }
         }
       }
 
-      return fishes
+      return bugs
     }
   },
   mutations: {
     /**
      * @param {Object} state
-     * @param {Array} fishes
+     * @param {Array} bugs
      */
-    SET_DATA(state, fishes) {
-      state.data = fishes
+    SET_DATA(state, bugs) {
+      state.data = bugs
       state.loaded = true
     },
     /**
@@ -73,18 +71,18 @@ export default {
   },
   actions: {
     /**
-     * Get fishes from ACNHAPI and store them
+     * Get bugs from ACNHAPI and store them
      * @param {Function} commit
      * @param {Object} state
      */
     async loadData({ commit, state }) {
       if (state.loaded) return
 
-      const { data } = await fishes()
+      const { data } = await bugs()
 
       commit(
         'SET_DATA',
-        data.map(fish => new Fish(fish))
+        data.map(bug => new Bug(bug))
       )
     },
     /**

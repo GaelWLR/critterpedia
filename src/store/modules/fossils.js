@@ -1,5 +1,5 @@
-import { fishes } from '../../plugins/axios'
-import Fish from '../../models/Fish'
+import { fossils } from '../../plugins/axios'
+import Fossil from '../../models/Fossil'
 
 export default {
   namespaced: true,
@@ -26,38 +26,38 @@ export default {
   },
   getters: {
     /**
-     * Sorts and filters fishes before returning them
+     * Sorts and filters fossils before returning them
      * @param {Array} data
      * @param {Array} sortingOptions
      */
     getDataSortedAndFiltered: ({ data, sortingOptions }) => {
-      let fishes = data.map(fish => fish)
+      let fossils = data.map(fossil => fossil)
 
       for (const { active, optRef, type, ascending } of sortingOptions) {
         if (active) {
           switch (type) {
             case 'string':
-              fishes.sort((a, b) =>
+              fossils.sort((a, b) =>
                 ascending ? a[optRef].localeCompare(b[optRef]) : b[optRef].localeCompare(a[optRef])
               )
               break
             case 'number':
-              fishes.sort((a, b) => (ascending ? a[optRef] - b[optRef] : b[optRef] - a[optRef]))
+              fossils.sort((a, b) => (ascending ? a[optRef] - b[optRef] : b[optRef] - a[optRef]))
               break
           }
         }
       }
 
-      return fishes
+      return fossils
     }
   },
   mutations: {
     /**
      * @param {Object} state
-     * @param {Array} fishes
+     * @param {Array} fossils
      */
-    SET_DATA(state, fishes) {
-      state.data = fishes
+    SET_DATA(state, fossils) {
+      state.data = fossils
       state.loaded = true
     },
     /**
@@ -73,18 +73,18 @@ export default {
   },
   actions: {
     /**
-     * Get fishes from ACNHAPI and store them
+     * Get fossils from ACNHAPI and store them
      * @param {Function} commit
      * @param {Object} state
      */
     async loadData({ commit, state }) {
       if (state.loaded) return
 
-      const { data } = await fishes()
+      const { data } = await fossils()
 
       commit(
         'SET_DATA',
-        data.map(fish => new Fish(fish))
+        data.map(fossil => new Fossil(fossil))
       )
     },
     /**

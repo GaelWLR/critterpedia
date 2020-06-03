@@ -4,12 +4,34 @@ import router from './router'
 import store from './store'
 import i18n from './plugins/i18n'
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faBone, faHome, faFish, faBug } from '@fortawesome/free-solid-svg-icons'
+import {
+  faBone,
+  faHome,
+  faFish,
+  faBug,
+  faSortAlphaDown,
+  faSortAlphaUp,
+  faSortNumericDown,
+  faSortNumericUp,
+  faSortDown,
+  faSortUp
+} from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 Vue.config.productionTip = false
 
-library.add(faBone, faHome, faFish, faBug)
+library.add(
+  faBone,
+  faHome,
+  faFish,
+  faBug,
+  faSortAlphaDown,
+  faSortAlphaUp,
+  faSortNumericDown,
+  faSortNumericUp,
+  faSortDown,
+  faSortUp
+)
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 
 new Vue({

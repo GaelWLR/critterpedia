@@ -32,9 +32,13 @@ export default {
   display: inline-flex;
   flex-direction: row;
   flex-grow: 1;
-  border: 1px solid grey;
   border-radius: 1rem;
   overflow: hidden;
+  transition: all $transition-speed-short ease-in-out;
+
+  &:hover {
+    transform: scale(1.05);
+  }
 }
 
 .card-img {
@@ -53,7 +57,6 @@ export default {
 .card-content {
   flex-grow: 1;
   width: max-content;
-  border-left: 1px solid grey;
   padding: 0.5rem 0.5rem;
   background-color: $secondary-color;
   font-size: 1.2rem;
