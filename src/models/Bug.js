@@ -5,7 +5,7 @@ export default class Bug extends ACNHApiResource {
    * Returns the bug icon uri
    * @returns {string}
    */
-  get icon() {
+  get imgUrl() {
     return this.data.icon_uri
   }
 

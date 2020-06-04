@@ -5,7 +5,7 @@ export default class Fish extends ACNHApiResource {
    * Returns the fish icon uri
    * @returns {string}
    */
-  get icon() {
+  get imgUrl() {
     return this.data.icon_uri
   }
 

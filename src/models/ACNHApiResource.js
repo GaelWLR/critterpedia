@@ -45,7 +45,7 @@ export default class ACNHApiResource {
    * Returns the resource img uri
    * @returns {string}
    */
-  get img() {
+  get imgUrl() {
     return this.data.image_uri
   }
 

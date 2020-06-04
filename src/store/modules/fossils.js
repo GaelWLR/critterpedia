@@ -81,10 +81,14 @@ export default {
       if (state.loaded) return
 
       const { data } = await fossils()
+      let index = 0
 
       commit(
         'SET_DATA',
-        data.map(fossil => new Fossil(fossil))
+        data.map(fossil => {
+          fossil.id = index++
+          return new Fossil(fossil)
+        })
       )
     },
     /**

@@ -2,26 +2,7 @@
   <div class="fishes-container">
     <h2>Fishes</h2>
     <filter-bar resource="fishes"></filter-bar>
-    <resource-card-grid>
-      <template v-for="(fish, key) in fishes" slot="cards">
-        <resource-card :key="key" :id="fish.id" :img_url="fish.icon">
-          <div slot="content">
-            <span class="content-title">Name :</span>
-            {{ fish.name }}
-            <br />
-            <span class="content-title">Location :</span>
-            {{ fish.location }}
-            <br />
-            <span class="content-title">Size :</span>
-            {{ fish.size }}
-            <br />
-            <span class="content-title">Price :</span>
-            {{ fish.price }}
-            <br />
-          </div>
-        </resource-card>
-      </template>
-    </resource-card-grid>
+    <resource-card-grid :resources="fishes"></resource-card-grid>
   </div>
 </template>
 
@@ -29,14 +10,12 @@
 import { mapGetters } from 'vuex'
 import FilterBar from '../components/FilterBar'
 import ResourceCardGrid from '../components/ResourceCardGrid'
-import ResourceCard from '../components/ResourceCard'
 
 export default {
   name: 'Fishes',
   components: {
     FilterBar,
-    ResourceCardGrid,
-    ResourceCard
+    ResourceCardGrid
   },
   computed: {
     ...mapGetters('fishes', { fishes: 'getDataSortedAndFiltered' })

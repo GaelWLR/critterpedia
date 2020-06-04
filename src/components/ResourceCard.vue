@@ -1,10 +1,25 @@
 <template>
   <div class="card">
     <div class="card-img">
-      <img :src="img_url" :alt="`${id}_img`" />
+      <img :src="imgUrl" :alt="`${name} img`" />
     </div>
     <div class="card-content">
-      <slot name="content"></slot>
+      <span class="content-title">Name :</span>
+      {{ name }}
+      <br />
+      <template v-if="location">
+        <span class="content-title">Location :</span>
+        {{ location }}
+        <br />
+      </template>
+      <template v-if="size">
+        <span class="content-title">Size :</span>
+        {{ size }}
+        <br />
+      </template>
+      <span class="content-title">Price :</span>
+      {{ price }}
+      <br />
     </div>
   </div>
 </template>
@@ -17,8 +32,22 @@ export default {
       type: Number,
       required: true
     },
-    img_url: {
+    imgUrl: {
       type: String,
+      required: true
+    },
+    name: {
+      type: String,
+      required: true
+    },
+    location: {
+      type: String
+    },
+    size: {
+      type: String
+    },
+    price: {
+      type: Number,
       required: true
     }
   }

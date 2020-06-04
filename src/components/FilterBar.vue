@@ -41,9 +41,6 @@ export default {
         return dispacth(`${this.resource}/updateSortingOption`, payload)
       }
     })
-  },
-  created() {
-    console.log(this.resource)
   }
 }
 </script>
