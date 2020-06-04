@@ -8,4 +8,6 @@ This project is a website version of the Animal Crossing's Critterpedia with the
 
 ## Features
 
-- none
+- Display bugs, fishes, and fossils
+
+- Sort by name or price
