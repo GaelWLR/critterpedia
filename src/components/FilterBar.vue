@@ -7,7 +7,7 @@
         :type="option.type"
         :active="option.active"
         :ascending="option.ascending"
-        @click.native="updateSortingOption(option.optRef)"
+        @click.native="updateSortingOption({ optRef: option.optRef, resource })"
       ></sort-button>
     </template>
   </div>
@@ -38,7 +38,7 @@ export default {
   methods: {
     ...mapActions({
       updateSortingOption(dispacth, payload) {
-        return dispacth(`${this.resource}/updateSortingOption`, payload)
+        return dispacth('updateSortingOption', payload)
       }
     })
   }

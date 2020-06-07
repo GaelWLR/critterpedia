@@ -18,7 +18,10 @@ export default {
     ResourceCardGrid
   },
   computed: {
-    ...mapGetters('bugs', { bugs: 'getDataSortedAndFiltered' })
+    ...mapGetters(['getResourceDataSortedAndFiltered']),
+    bugs() {
+      return this.getResourceDataSortedAndFiltered('bugs')
+    }
   },
   created() {
     this.$store.dispatch('bugs/loadData')

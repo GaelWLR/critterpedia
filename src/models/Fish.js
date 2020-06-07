@@ -1,28 +1,34 @@
 import ACNHApiResource from './ACNHApiResource'
+import { formatHours, formatMonths } from '../utils/formatResources'
 
 export default class Fish extends ACNHApiResource {
   /**
-   * Returns the fish icon uri
-   * @returns {string}
+   * Format raw resource data
+   * @param {Object.<string, any>} data
    */
-  get imgUrl() {
-    return this.data.icon_uri
-  }
+  constructor(data) {
+    super(data)
 
-  /**
-   * Returns the fish size
-   * @returns {string}
-   */
-  get size() {
-    const shadow = this.data.shadow.split(' ')
-    return shadow[0].toLowerCase()
-  }
+    const {
+      icon_uri: iconUri,
+      shadow,
+      availability: {
+        'month-northern': monthNothern,
+        'month-southern': monthSouthern,
+        isAllYear,
+        time,
+        isAllDay,
+        location,
+        rarity
+      }
+    } = data
 
-  /**
-   * Returns the fish location
-   * @returns {string}
-   */
-  get location() {
-    return this.data.availability.location.toLowerCase()
+    this.imgUrl = iconUri
+    this.size = shadow.split(' ')[0].toLowerCase()
+    this.location = location.toLowerCase()
+    this.rarity = rarity.toLowerCase()
+    this.monthsNorth = formatMonths(monthNothern, isAllYear)
+    this.monthsSouth = formatMonths(monthSouthern, isAllYear)
+    this.hours = formatHours(time, isAllDay)
   }
 }

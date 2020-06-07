@@ -18,7 +18,10 @@ export default {
     ResourceCardGrid
   },
   computed: {
-    ...mapGetters('fishes', { fishes: 'getDataSortedAndFiltered' })
+    ...mapGetters(['getResourceDataSortedAndFiltered']),
+    fishes() {
+      return this.getResourceDataSortedAndFiltered('fishes')
+    }
   },
   created() {
     this.$store.dispatch('fishes/loadData')

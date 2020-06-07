@@ -18,7 +18,10 @@ export default {
     ResourceCardGrid
   },
   computed: {
-    ...mapGetters('fossils', { fossils: 'getDataSortedAndFiltered' })
+    ...mapGetters(['getResourceDataSortedAndFiltered']),
+    fossils() {
+      return this.getResourceDataSortedAndFiltered('fossils')
+    }
   },
   created() {
     this.$store.dispatch('fossils/loadData')
