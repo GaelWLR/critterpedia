@@ -1,20 +1,20 @@
 <template>
   <div class="fishes-container">
     <h2>Fishes</h2>
-    <filter-bar resource="fishes"></filter-bar>
+    <options-bar resource="fishes"></options-bar>
     <resource-card-grid :resources="fishes"></resource-card-grid>
   </div>
 </template>
 
 <script>
 import { mapGetters } from 'vuex'
-import FilterBar from '../components/FilterBar'
+import OptionsBar from '../components/OptionsBar'
 import ResourceCardGrid from '../components/ResourceCardGrid'
 
 export default {
   name: 'Fishes',
   components: {
-    FilterBar,
+    OptionsBar,
     ResourceCardGrid
   },
   computed: {

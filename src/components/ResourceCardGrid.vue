@@ -4,7 +4,7 @@
       <resource-card
         class="cards-list-item"
         v-for="resource in resources"
-        :key="resource.id"
+        :key="resource.reference"
         :id="resource.id"
         :img-url="resource.imgUrl"
         :name="resource.name"
@@ -37,6 +37,7 @@ export default {
 @import '../assets/css/_variables.scss';
 
 .cards-container {
+  position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1rem;
@@ -44,12 +45,21 @@ export default {
 }
 
 .cards-list-item {
-  transition: all $transition-speed;
+  transition: all $transition-speed ease-in-out;
 }
 
-.cards-list-enter,
-.cards-list-leave-to {
+.cards-list-enter {
+  transform: scale(0.5) translatey(3rem);
   opacity: 0;
-  transform: translateY(30px);
+}
+
+.cards-list-leave-active {
+  position: absolute;
+  z-index: -1;
+}
+
+.cards-list-leave-to {
+  transform: scale(0.2);
+  opacity: 0;
 }
 </style>

@@ -16,14 +16,8 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @import './assets/css/_variables.scss';
-
-html,
-body {
-  margin: 0;
-  padding: 0;
-}
 
 .app-container {
   @media screen and (min-width: #{$desktop-breakpoint}) {
@@ -37,6 +31,7 @@ body {
   height: $navbar-size;
   position: fixed;
   bottom: 0;
+  z-index: 2;
 
   @media screen and (min-width: #{$tablet-breakpoint}) {
     width: $navbar-size;

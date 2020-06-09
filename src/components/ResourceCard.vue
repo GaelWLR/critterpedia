@@ -5,20 +5,20 @@
     </div>
     <div class="card-content">
       <span class="content-title">Name :</span>
-      {{ name }}
+      <span class="content-text">{{ name }}</span>
       <br />
       <template v-if="location">
         <span class="content-title">Location :</span>
-        {{ location }}
+        <span class="content-text">{{ location }}</span>
         <br />
       </template>
       <template v-if="size">
         <span class="content-title">Size :</span>
-        {{ size }}
+        <span class="content-text">{{ size }}</span>
         <br />
       </template>
       <span class="content-title">Price :</span>
-      {{ price }}
+      <span class="content-text">{{ price }}</span>
       <br />
     </div>
   </div>
@@ -94,5 +94,9 @@ export default {
 .content-title {
   font-weight: bolder;
   color: $tertiary-color;
+}
+
+.content-text {
+  font-weight: lighter;
 }
 </style>

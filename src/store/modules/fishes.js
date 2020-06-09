@@ -20,7 +20,16 @@ export default {
           ascending: true
         }
       ],
-      filters: [],
+      filters: {
+        hemisphere: {
+          selected: 0,
+          options: ['north', 'south']
+        },
+        availability: {
+          selected: 0,
+          options: ['all', 'this_month', 'now']
+        }
+      },
       loaded: false
     }
   },

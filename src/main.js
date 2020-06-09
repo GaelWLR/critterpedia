@@ -14,9 +14,13 @@ import {
   faSortNumericDown,
   faSortNumericUp,
   faSortDown,
-  faSortUp
+  faSortUp,
+  faSort
 } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
+// eslint-disable-next-line no-undef
+require('./assets/css/common.scss')
 
 Vue.config.productionTip = false
 
@@ -30,7 +34,8 @@ library.add(
   faSortNumericDown,
   faSortNumericUp,
   faSortDown,
-  faSortUp
+  faSortUp,
+  faSort
 )
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 
