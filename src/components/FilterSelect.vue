@@ -1,6 +1,6 @@
 <template>
   <div class="filter-container">
-    <label :for="selectId">{{ optRef }} :</label>
+    <label :for="selectId">{{ optRef }}&nbsp;:</label>
     <select :id="selectId">
       <option v-for="(option, key) in options" :key="key" :value="key">{{ option }}</option>
     </select>
@@ -45,7 +45,7 @@ export default {
   padding: 0.5rem 1rem;
   background-color: $primary-color;
   color: $tertiary-color;
-  font-size: 1.2rem;
+  font-size: 1rem;
 
   select {
     -webkit-appearance: none;

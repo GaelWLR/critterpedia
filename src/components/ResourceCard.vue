@@ -59,11 +59,13 @@ export default {
 
 .card {
   display: inline-flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-grow: 1;
+  border: 1px solid $secondary-color;
   border-radius: 1rem;
   overflow: hidden;
   transition: all $transition-speed-short ease-in-out;
+  font-size: 0.8rem;
 
   &:hover {
     transform: scale(1.05);
@@ -72,23 +74,20 @@ export default {
 
 .card-img {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
-  width: 4rem;
   padding: 0.3rem 0.3rem;
-  background-color: $primary-color;
+  height: 4rem;
 
-  & > img {
+  img {
     object-fit: contain;
   }
 }
 
 .card-content {
   flex-grow: 1;
-  width: max-content;
   padding: 0.5rem 0.5rem;
-  background-color: $secondary-color;
-  font-size: 1.2rem;
+  background-color: $primary-color;
 }
 
 .content-title {

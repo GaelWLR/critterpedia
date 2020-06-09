@@ -51,7 +51,7 @@ button {
   padding: 0.5rem 1rem;
   background-color: $primary-color;
   color: $tertiary-color;
-  font-size: 1.2rem;
+  font-size: 1rem;
 
   &:hover {
     box-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.1);

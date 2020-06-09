@@ -1,7 +1,14 @@
 <template>
   <nav class="navbar-container">
-    <router-link class="navbar-link" v-for="(link, key) in links" :key="key" :to="{ name: link.name }">
-      <i class="link-icon"><font-awesome-icon :icon="['fas', link.icon]"></font-awesome-icon></i>
+    <router-link
+      class="navbar-link"
+      v-for="(link, key) in links"
+      :key="key"
+      :to="{ name: link.name }"
+    >
+      <i class="link-icon">
+        <font-awesome-icon :icon="['fas', link.icon]"></font-awesome-icon>
+      </i>
       <span class="link-text">{{ link.title }}</span>
     </router-link>
   </nav>
@@ -109,6 +116,7 @@ export default {
 }
 
 .router-link-exact-active {
-  background-color: $primary-color;
+  background-color: $tertiary-color;
+  color: $primary-color;
 }
 </style>
