@@ -1,5 +1,5 @@
 import ACNHApiResource from './ACNHApiResource'
-import { formatHours, formatMonths } from '../utils/formatResources'
+import { formatHours, formatMonths, formatStringToTranslate } from '../utils/formatResources'
 
 export default class Bug extends ACNHApiResource {
   /**
@@ -23,8 +23,8 @@ export default class Bug extends ACNHApiResource {
     } = data
 
     this.imgUrl = iconUri
-    this.location = location.toLowerCase()
-    this.rarity = rarity.toLowerCase()
+    this._location = formatStringToTranslate(location)
+    this.rarity = formatStringToTranslate(rarity)
     this.monthsNorth = formatMonths(monthNothern, isAllYear)
     this.monthsSouth = formatMonths(monthSouthern, isAllYear)
     this.hours = formatHours(time, isAllDay)

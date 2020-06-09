@@ -4,22 +4,12 @@
       <img :src="imgUrl" :alt="`${name} img`" />
     </div>
     <div class="card-content">
-      <span class="content-title">Name :</span>
-      <span class="content-text">{{ name }}</span>
-      <br />
-      <template v-if="location">
-        <span class="content-title">Location :</span>
-        <span class="content-text">{{ location }}</span>
-        <br />
+      <template v-for="key in keys">
+        <div v-if="getProp(key)" :key="key">
+          <span class="content-title">{{ $t(key) }}&nbsp;:</span>
+          <span class="content-text">{{ getProp(key) }}</span>
+        </div>
       </template>
-      <template v-if="size">
-        <span class="content-title">Size :</span>
-        <span class="content-text">{{ size }}</span>
-        <br />
-      </template>
-      <span class="content-title">Price :</span>
-      <span class="content-text">{{ price }}</span>
-      <br />
     </div>
   </div>
 </template>
@@ -47,8 +37,18 @@ export default {
       type: String
     },
     price: {
-      type: Number,
+      type: String,
       required: true
+    }
+  },
+  data() {
+    return {
+      keys: ['name', 'location', 'size', 'price']
+    }
+  },
+  methods: {
+    getProp(prop) {
+      return this[prop]
     }
   }
 }
@@ -77,7 +77,7 @@ export default {
   flex-direction: row;
   justify-content: center;
   padding: 0.3rem 0.3rem;
-  height: 4rem;
+  height: 5rem;
 
   img {
     object-fit: contain;

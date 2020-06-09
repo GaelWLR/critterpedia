@@ -1,8 +1,8 @@
 <template>
   <div class="filter-container">
-    <label :for="selectId">{{ optRef }}&nbsp;:</label>
+    <label :for="selectId">{{ $t(optRef) }}&nbsp;:</label>
     <select :id="selectId">
-      <option v-for="(option, key) in options" :key="key" :value="key">{{ option }}</option>
+      <option v-for="(option, key) in options" :key="key" :value="key">{{ $t(option) }}</option>
     </select>
     <font-awesome-icon :icon="['fas', 'sort']"></font-awesome-icon>
   </div>

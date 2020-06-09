@@ -1,6 +1,6 @@
 <template>
   <div class="fossils-container">
-    <h2>Fossils</h2>
+    <h2>{{ $t('fossils') }}</h2>
     <options-bar resource="fossils"></options-bar>
     <resource-card-grid :resources="fossils"></resource-card-grid>
   </div>

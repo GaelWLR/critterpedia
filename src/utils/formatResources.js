@@ -85,4 +85,16 @@ function formatHours(rawHours, isAllDay = false) {
   return hours
 }
 
-export { formatNames, formatHours, formatMonths }
+/**
+ * Format string to make it a key for i18n
+ * @param {string} string
+ * @returns {string}
+ */
+function formatStringToTranslate(string) {
+  return string
+    .replace(/ /g, '_')
+    .replace(/\(|\)/g, '')
+    .toLowerCase()
+}
+
+export { formatNames, formatHours, formatMonths, formatStringToTranslate }

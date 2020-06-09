@@ -1,15 +1,10 @@
 <template>
   <nav class="navbar-container">
-    <router-link
-      class="navbar-link"
-      v-for="(link, key) in links"
-      :key="key"
-      :to="{ name: link.name }"
-    >
+    <router-link class="navbar-link" v-for="(link, key) in links" :key="key" :to="{ name: link.name }">
       <i class="link-icon">
         <font-awesome-icon :icon="['fas', link.icon]"></font-awesome-icon>
       </i>
-      <span class="link-text">{{ link.title }}</span>
+      <span class="link-text">{{ $t(link.name) }}</span>
     </router-link>
   </nav>
 </template>
@@ -22,22 +17,18 @@ export default {
       links: [
         {
           name: 'home',
-          title: 'Home',
           icon: 'home'
         },
         {
           name: 'bugs',
-          title: 'Bugs',
           icon: 'bug'
         },
         {
           name: 'fishes',
-          title: 'Fishes',
           icon: 'fish'
         },
         {
           name: 'fossils',
-          title: 'Fossils',
           icon: 'bone'
         }
       ]

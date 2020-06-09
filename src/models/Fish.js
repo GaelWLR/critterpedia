@@ -1,5 +1,5 @@
 import ACNHApiResource from './ACNHApiResource'
-import { formatHours, formatMonths } from '../utils/formatResources'
+import { formatHours, formatMonths, formatStringToTranslate } from '../utils/formatResources'
 
 export default class Fish extends ACNHApiResource {
   /**
@@ -24,9 +24,9 @@ export default class Fish extends ACNHApiResource {
     } = data
 
     this.imgUrl = iconUri
-    this.size = shadow.split(' ')[0].toLowerCase()
-    this.location = location.toLowerCase()
-    this.rarity = rarity.toLowerCase()
+    this._size = formatStringToTranslate(shadow.split(' ')[0])
+    this._location = formatStringToTranslate(location)
+    this.rarity = formatStringToTranslate(rarity)
     this.monthsNorth = formatMonths(monthNothern, isAllYear)
     this.monthsSouth = formatMonths(monthSouthern, isAllYear)
     this.hours = formatHours(time, isAllDay)

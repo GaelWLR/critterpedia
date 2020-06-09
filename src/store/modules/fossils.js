@@ -15,7 +15,7 @@ export default {
         },
         {
           active: false,
-          optRef: 'price',
+          optRef: '_price',
           type: 'number',
           ascending: true
         }

@@ -1,6 +1,6 @@
 <template>
   <div class="bugs-container">
-    <h2>Bugs</h2>
+    <h2>{{ $t('bugs') }}</h2>
     <options-bar resource="bugs"></options-bar>
     <resource-card-grid :resources="bugs"></resource-card-grid>
   </div>
