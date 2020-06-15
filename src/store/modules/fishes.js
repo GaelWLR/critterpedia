@@ -28,6 +28,14 @@ export default {
         availability: {
           selected: 0,
           options: ['all', 'this_month', 'now']
+        },
+        shadow: {
+          selected: 0,
+          options: ['all', 'narrow', 'smallest', 'small', 'medium', 'large', 'largest']
+        },
+        location: {
+          selected: 0,
+          options: ['all']
         }
       },
       loaded: false
@@ -42,6 +50,16 @@ export default {
     SET_DATA(state, fishes) {
       state.data = fishes
       state.loaded = true
+    },
+    /**
+     * @param {Object.<string, any>} state
+     * @param {string} filter
+     * @param {Array} options
+     */
+    SET_FILTER_OPTIONS(state, { filter, options }) {
+      for (const option of options) {
+        state.filters[filter].options.push(option)
+      }
     }
   },
   actions: {
@@ -55,10 +73,19 @@ export default {
 
       const { data } = await fishes()
 
-      commit(
-        'SET_DATA',
-        data.map(fish => new Fish(fish))
-      )
+      const fishesData = data.map(fish => new Fish(fish))
+
+      const locations = []
+      for (const fish of fishesData) {
+        if (fish._location && !locations.includes(fish._location.split('_&_')[0])) {
+          locations.push(fish._location)
+        }
+      }
+      locations.sort((a, b) => a.localeCompare(b))
+
+      commit('SET_FILTER_OPTIONS', { filter: 'location', options: locations })
+
+      commit('SET_DATA', fishesData)
     }
   }
 }

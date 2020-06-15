@@ -28,6 +28,10 @@ export default {
         availability: {
           selected: 0,
           options: ['all', 'this_month', 'now']
+        },
+        location: {
+          selected: 0,
+          options: ['all']
         }
       },
       loaded: false
@@ -42,6 +46,16 @@ export default {
     SET_DATA(state, bugs) {
       state.data = bugs
       state.loaded = true
+    },
+    /**
+     * @param {Object.<string, any>} state
+     * @param {string} filter
+     * @param {Array} options
+     */
+    SET_FILTER_OPTIONS(state, { filter, options }) {
+      for (const option of options) {
+        state.filters[filter].options.push(option)
+      }
     }
   },
   actions: {
@@ -55,10 +69,19 @@ export default {
 
       const { data } = await bugs()
 
-      commit(
-        'SET_DATA',
-        data.map(bug => new Bug(bug))
-      )
+      const bugsData = data.map(bug => new Bug(bug))
+
+      const locations = []
+      for (const bug of bugsData) {
+        if (bug._location && !locations.includes(bug._location)) {
+          locations.push(bug._location)
+        }
+      }
+      locations.sort((a, b) => a.localeCompare(b))
+
+      commit('SET_FILTER_OPTIONS', { filter: 'location', options: locations })
+
+      commit('SET_DATA', bugsData)
     }
   }
 }

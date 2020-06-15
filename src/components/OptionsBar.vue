@@ -69,6 +69,7 @@ export default {
 <style lang="scss" scoped>
 .options-bar-container {
   display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
   padding: 0.5rem 0;
 }

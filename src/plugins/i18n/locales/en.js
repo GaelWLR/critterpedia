@@ -6,7 +6,7 @@ export default {
   location: 'Location',
   name: 'Name',
   price: 'Price',
-  size: 'Size',
+  shadow: 'Shadow',
   // Sorting options
   sort_by_name: 'Sort by name',
   sort_by_price: 'Sort by price',
@@ -48,14 +48,17 @@ export default {
   river_mouth: 'River (mouth)',
   sea: 'Sea',
   sea_when_raining_or_snowing: 'Sea (when raining or snowing)',
-  // Fish size
+  // Fish shadow
   large: 'Large',
   largest: 'Largest',
+  largest_with_fin: 'Largest (with fin)',
   medium: 'Medium',
+  medium_with_fin: 'Medium (with fin)',
   narrow: 'Narrow',
   small: 'Small',
   smallest: 'Smallest',
   // Message
   display_price: '{price} bells',
-  home_greetings_message: 'Welcome on Critterpedia online !'
+  home_greetings_message: 'Welcome on Critterpedia online !',
+  no_results: 'No results ...'
 }

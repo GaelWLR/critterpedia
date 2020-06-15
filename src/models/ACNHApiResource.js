@@ -35,15 +35,19 @@ export default class ACNHApiResource {
         .join(' & ')
     }
 
-    return ''
+    return undefined
   }
 
   /**
-   * Returns the resource size in the current locale
+   * Returns the resource shadow in the current locale
    * @returns {string}
    */
-  get size() {
-    return i18n.t(this._size)
+  get shadow() {
+    if (this._shadow) {
+      return i18n.t(this._shadow)
+    }
+
+    return undefined
   }
 
   get price() {

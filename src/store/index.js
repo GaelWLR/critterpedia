@@ -21,7 +21,7 @@ export default new Vuex.Store({
     getResourceDataSortedAndFiltered: state => resourceName => {
       let resources = state[resourceName].data.map(resource => resource)
 
-      const { hemisphere, availability } = state[resourceName].filters
+      const { hemisphere, availability, shadow, location } = state[resourceName].filters
       const getSelected = filter => filter.options[filter.selected]
 
       if (availability) {
@@ -29,22 +29,36 @@ export default new Vuex.Store({
           case 'this_month':
             resources = resources.filter(resource => {
               const months = getSelected(hemisphere) == 'north' ? resource.monthsNorth : resource.monthsSouth
-              const month = new Date().getMonth()
+              const month = new Date().getMonth() + 1
 
-              return months.indexOf(month) > -1
+              return months.includes(month)
             })
             break
           case 'now':
             resources = resources.filter(resource => {
               const months = getSelected(hemisphere) == 'north' ? resource.monthsNorth : resource.monthsSouth
-              const month = new Date().getMonth()
+              const month = new Date().getMonth() + 1
 
               const { hours } = resource
               const hour = new Date().getHours()
 
-              return months.indexOf(month) > -1 && hours.indexOf(hour) > -1
+              return months.includes(month) && hours.includes(hour)
             })
             break
+        }
+      }
+
+      if (shadow) {
+        const selectedShadow = getSelected(shadow)
+        if (selectedShadow != 'all') {
+          resources = resources.filter(resource => resource._shadow.split('_')[0] == selectedShadow)
+        }
+      }
+
+      if (location) {
+        const selectedLocation = getSelected(location)
+        if (selectedLocation != 'all') {
+          resources = resources.filter(resource => resource._location.split('_&_').includes(selectedLocation))
         }
       }
 

@@ -6,7 +6,7 @@ export default {
   location: 'Lieu',
   name: 'Nom',
   price: 'Prix',
-  size: 'Taille',
+  shadow: 'Ombre',
   // Sorting options
   sort_by_name: 'Trier par nom',
   sort_by_price: 'Trier par prix',
@@ -48,14 +48,17 @@ export default {
   river_mouth: 'Rivière (embouchure)',
   sea: 'Mer',
   sea_when_raining_or_snowing: 'Mer (pluie ou neige)',
-  // Fish size
+  // Fish shadow
   large: 'Grande',
   largest: 'Très grande',
+  largest_with_fin: 'Très grande (avec aileron)',
   medium: 'Moyenne',
+  medium_with_fin: 'Moyenne (avec aileron)',
   narrow: 'Minuscule',
   small: 'Petite',
   smallest: 'Très petite',
   // Message
   display_price: '{price} clochettes',
-  home_greetings_message: 'Bienvenue sur la Bébétopédie en ligne !'
+  home_greetings_message: 'Bienvenue sur la Bébétopédie en ligne !',
+  no_results: 'Pas de résultats ...'
 }

@@ -24,7 +24,7 @@ export default class Fish extends ACNHApiResource {
     } = data
 
     this.imgUrl = iconUri
-    this._size = formatStringToTranslate(shadow.split(' ')[0])
+    this._shadow = formatStringToTranslate(shadow)
     this._location = formatStringToTranslate(location)
     this.rarity = formatStringToTranslate(rarity)
     this.monthsNorth = formatMonths(monthNothern, isAllYear)

@@ -93,7 +93,7 @@ function formatHours(rawHours, isAllDay = false) {
 function formatStringToTranslate(string) {
   return string
     .replace(/ /g, '_')
-    .replace(/\(|\)/g, '')
+    .replace(/\(|\)|_\(\d*\)/g, '')
     .toLowerCase()
 }
 

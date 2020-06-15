@@ -33,7 +33,7 @@ export default {
     location: {
       type: String
     },
-    size: {
+    shadow: {
       type: String
     },
     price: {
@@ -43,7 +43,7 @@ export default {
   },
   data() {
     return {
-      keys: ['name', 'location', 'size', 'price']
+      keys: ['name', 'location', 'shadow', 'price']
     }
   },
   methods: {
@@ -78,6 +78,7 @@ export default {
   justify-content: center;
   padding: 0.3rem 0.3rem;
   height: 5rem;
+  background-color: white;
 
   img {
     object-fit: contain;

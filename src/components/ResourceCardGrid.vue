@@ -1,6 +1,6 @@
 <template>
   <div>
-    <transition-group class="cards-container" name="cards-list" tag="div">
+    <transition-group v-if="resources.length" class="cards-container" name="cards-list" tag="div">
       <resource-card
         class="cards-list-item"
         v-for="resource in resources"
@@ -9,10 +9,11 @@
         :img-url="resource.imgUrl"
         :name="resource.name"
         :location="resource.location"
-        :size="resource.size"
+        :shadow="resource.shadow"
         :price="resource.price"
       ></resource-card>
     </transition-group>
+    <h2 v-else>{{ $t('no_results') }}</h2>
   </div>
 </template>
 
