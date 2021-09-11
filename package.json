@@ -1,0 +1,21 @@
+{
+  "name": "critterpedia",
+  "version": "0.0.1",
+  "description": "Critterpedia from Animal Crossing New Horizon",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaelWLR/critterpedia.git"
+  },
+  "keywords": [
+    "animal crossing",
+    "critterpedia"
+  ],
+  "author": "GaelWLR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaelWLR/critterpedia/issues"
+  },
+  "homepage": "https://github.com/GaelWLR/critterpedia#readme"
+}
