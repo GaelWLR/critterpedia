@@ -6,6 +6,7 @@ bower_components
 .pnp.js
 
 ### Bundler ###
+.svelte-kit
 .cache
 .next
 .nuxt
