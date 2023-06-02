@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "Critterpedia from Animal Crossing New Horizon",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,vue,css}\" --write",
+    "lint": "eslint \"src/**/*.{js,vue}\" --quiet",
+    "dev": "vite"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GaelWLR/critterpedia.git"
@@ -17,5 +21,33 @@
   "bugs": {
     "url": "https://github.com/GaelWLR/critterpedia/issues"
   },
-  "homepage": "https://github.com/GaelWLR/critterpedia#readme"
+  "homepage": "https://github.com/GaelWLR/critterpedia#readme",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "volta": {
+    "node": "14.17.6",
+    "yarn": "1.22.11"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "axios": "^0.21.4",
+    "vue": "^2.6.14",
+    "vue-hot-reload-api": "^2.3.4",
+    "vue-i18n": "^8.25.0",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.2",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^7.17.0",
+    "prettier": "^2.4.0",
+    "sass": "^1.39.2",
+    "vite": "^2.5.6",
+    "vite-plugin-vue2": "^1.8.2",
+    "vue-template-compiler": "^2.6.14"
+  }
 }

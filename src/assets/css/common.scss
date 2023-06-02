@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Fink Heavy';
+  src: url('../fonts/fink-heavy.woff');
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fink Heavy', Georgia, sans-serif;
+}
+
+button,
+select {
+  font-family: inherit;
+}
