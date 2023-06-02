@@ -6,7 +6,7 @@
     <div class="card-content">
       <template v-for="key in keys">
         <div v-if="getProp(key)" :key="key">
-          <span class="content-title">{{ $t(key) }}&nbsp;:</span>
+          <span class="content-title">{{ $t(key) }}&nbsp;:&nbsp;</span>
           <span class="content-text">{{ getProp(key) }}</span>
         </div>
       </template>

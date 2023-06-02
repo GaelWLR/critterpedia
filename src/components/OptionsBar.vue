@@ -1,24 +1,22 @@
 <template>
   <div class="options-bar-container">
-    <template v-for="(option, key) of sortingOptions">
-      <sort-button
-        :key="`option-${key}`"
-        :optRef="option.optRef"
-        :type="option.type"
-        :active="option.active"
-        :ascending="option.ascending"
-        @click.native="updateSortingOption({ optRef: option.optRef, resource })"
-      ></sort-button>
-    </template>
-    <template v-for="(filter, key) of filters">
-      <filter-select
-        :key="`filter-${key}`"
-        :optRef="key"
-        :selected="filter.selected"
-        :options="filter.options"
-        @change.native="updateFilter({ optRef: key, resource, $event })"
-      ></filter-select>
-    </template>
+    <sort-button
+      v-for="(option, key) of sortingOptions"
+      :key="`option-${key}`"
+      :optRef="option.optRef"
+      :type="option.type"
+      :active="option.active"
+      :ascending="option.ascending"
+      @click.native="updateSortingOption({ optRef: option.optRef, resource })"
+    />
+    <filter-select
+      v-for="(filter, key) of filters"
+      :key="`filter-${key}`"
+      :optRef="key"
+      :selected="filter.selected"
+      :options="filter.options"
+      @change.native="updateFilter({ optRef: key, resource, $event })"
+    />
   </div>
 </template>
 

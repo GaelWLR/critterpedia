@@ -1,8 +1,8 @@
 <template>
   <div class="bugs-container">
     <h2>{{ $t('bugs') }}</h2>
-    <options-bar resource="bugs"></options-bar>
-    <resource-card-grid :resources="bugs"></resource-card-grid>
+    <options-bar resource="bugs" />
+    <resource-card-grid :resources="bugs" />
   </div>
 </template>
 

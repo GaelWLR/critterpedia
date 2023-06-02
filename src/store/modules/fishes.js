@@ -21,13 +21,9 @@ export default {
         }
       ],
       filters: {
-        hemisphere: {
-          selected: 0,
-          options: ['north', 'south']
-        },
         availability: {
           selected: 0,
-          options: ['all', 'this_month', 'now']
+          options: ['all', 'this_month-north', 'this_month-south', 'now-north', 'now-south']
         },
         shadow: {
           selected: 0,

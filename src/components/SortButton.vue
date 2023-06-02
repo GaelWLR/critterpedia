@@ -1,7 +1,7 @@
 <template>
   <button :class="{ active }">
     {{ $t(`sort_by_${optRef}`.replace('__', '_')) }}
-    <font-awesome-icon :icon="['fas', icon]"></font-awesome-icon>
+    <font-awesome-icon :icon="['fas', icon]" />
   </button>
 </template>
 

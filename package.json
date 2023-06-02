@@ -6,7 +6,8 @@
   "scripts": {
     "format": "prettier \"src/**/*.{js,vue,css}\" --write",
     "lint": "eslint \"src/**/*.{js,vue}\" --quiet",
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
@@ -24,14 +25,15 @@
   "homepage": "https://github.com/GaelWLR/critterpedia#readme",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "volta": {
-    "node": "14.17.6",
-    "yarn": "1.22.11"
+    "node": "18.16.0",
+    "yarn": "1.22.19"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/vue-fontawesome": "^2.0.2",
     "axios": "^0.21.4",
+    "global": "^4.4.0",
     "vue": "^2.6.14",
     "vue-hot-reload-api": "^2.3.4",
     "vue-i18n": "^8.25.0",
@@ -40,11 +42,11 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.6.2",
-    "eslint": "^7.32.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint": "^8.41.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^7.17.0",
-    "prettier": "^2.4.0",
+    "prettier": "^2.8.8",
     "sass": "^1.39.2",
     "vite": "^2.5.6",
     "vite-plugin-vue2": "^1.8.2",

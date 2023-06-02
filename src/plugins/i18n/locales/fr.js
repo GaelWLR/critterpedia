@@ -7,22 +7,26 @@ export default {
   name: 'Nom',
   price: 'Prix',
   shadow: 'Ombre',
+
   // Sorting options
   sort_by_name: 'Trier par nom',
   sort_by_price: 'Trier par prix',
-  // Hemisphere
-  hemisphere: 'Hémisphère',
-  north: 'Nord',
-  south: 'Sud',
+
   // Availability
   availability: 'Disponibilité',
   all: 'Tout',
   this_month: 'Ce mois-ci',
+  'this_month-north': 'Ce mois-ci (Nord)',
+  'this_month-south': 'Ce mois-ci (Sud)',
   now: 'Maintenant',
+  'now-north': 'Maintenant (Nord)',
+  'now-south': 'Maintenant (Sud)',
+
   // Bug location
   flying: 'En vol',
   flying_by_light: "En vol à côté d'une lumière",
   flying_near_hybrid_flowers: "En vol près d'une fleur hybride",
+  flying_near_water: "En vol près de l'eau",
   hitting_rocks: 'Sous un rocher',
   near_trash: 'Près de déchet',
   on_beach_rocks: 'Sur un rocher de plage',
@@ -30,6 +34,7 @@ export default {
   on_palm_trees: 'Palmier',
   on_ponds_and_rivers: 'Étang & Rivière',
   on_rocks_when_raining: 'Sur un rocher (pluie)',
+  on_rocks_and_bush_when_raining: 'Sur un rocher ou buisson (pluie)',
   on_rotten_food: 'Nourriture pourrie',
   on_the_beach: 'Sur la plage',
   on_the_ground: 'Au sol',
@@ -40,14 +45,16 @@ export default {
   shaking_trees: 'Secouer un arbre',
   underground: 'Sous-sol',
   under_trees: 'Sous un arbre',
+
   // Fish location
-  pier: 'ponton',
+  pier: 'Ponton',
   pond: 'Étang',
   river: 'Rivière',
   river_clifftop: 'Rivière (falaise)',
   river_mouth: 'Rivière (embouchure)',
   sea: 'Mer',
   sea_when_raining_or_snowing: 'Mer (pluie ou neige)',
+
   // Fish shadow
   large: 'Grande',
   largest: 'Très grande',
@@ -57,6 +64,7 @@ export default {
   narrow: 'Minuscule',
   small: 'Petite',
   smallest: 'Très petite',
+
   // Message
   display_price: '{price} clochettes',
   home_greetings_message: 'Bienvenue sur la Bébétopédie en ligne !',

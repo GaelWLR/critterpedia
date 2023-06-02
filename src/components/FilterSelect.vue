@@ -4,7 +4,7 @@
     <select :id="selectId">
       <option v-for="(option, key) in options" :key="key" :value="key">{{ $t(option) }}</option>
     </select>
-    <font-awesome-icon :icon="['fas', 'sort']"></font-awesome-icon>
+    <font-awesome-icon :icon="['fas', 'sort']" />
   </div>
 </template>
 

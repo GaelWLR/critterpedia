@@ -11,7 +11,7 @@
         :location="resource.location"
         :shadow="resource.shadow"
         :price="resource.price"
-      ></resource-card>
+      />
     </transition-group>
     <h2 v-else>{{ $t('no_results') }}</h2>
   </div>

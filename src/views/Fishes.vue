@@ -1,8 +1,8 @@
 <template>
   <div class="fishes-container">
     <h2>{{ $t('fishes') }}</h2>
-    <options-bar resource="fishes"></options-bar>
-    <resource-card-grid :resources="fishes"></resource-card-grid>
+    <options-bar resource="fishes" />
+    <resource-card-grid :resources="fishes" />
   </div>
 </template>
 

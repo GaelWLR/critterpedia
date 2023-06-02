@@ -21,14 +21,16 @@ export default new Vuex.Store({
     getResourceDataSortedAndFiltered: state => resourceName => {
       let resources = state[resourceName].data.map(resource => resource)
 
-      const { hemisphere, availability, shadow, location } = state[resourceName].filters
+      const { availability, shadow, location } = state[resourceName].filters
       const getSelected = filter => filter.options[filter.selected]
 
       if (availability) {
-        switch (getSelected(availability)) {
+        const [time, hemisphere] = getSelected(availability).split('-')
+
+        switch (time) {
           case 'this_month':
             resources = resources.filter(resource => {
-              const months = getSelected(hemisphere) == 'north' ? resource.monthsNorth : resource.monthsSouth
+              const months = hemisphere == 'north' ? resource.monthsNorth : resource.monthsSouth
               const month = new Date().getMonth() + 1
 
               return months.includes(month)
@@ -36,7 +38,7 @@ export default new Vuex.Store({
             break
           case 'now':
             resources = resources.filter(resource => {
-              const months = getSelected(hemisphere) == 'north' ? resource.monthsNorth : resource.monthsSouth
+              const months = hemisphere == 'north' ? resource.monthsNorth : resource.monthsSouth
               const month = new Date().getMonth() + 1
 
               const { hours } = resource
