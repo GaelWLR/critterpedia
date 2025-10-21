@@ -68,5 +68,8 @@ export default {
   // Message
   display_price: '{price} bells',
   home_greetings_message: 'Welcome on Critterpedia online !',
+  most_expensive_bug: 'Most expensive bug',
+  most_expensive_fish: 'Most expensive fish',
+  most_expensive_now: 'Most expensive right now',
   no_results: 'No results ...'
 }

@@ -68,5 +68,8 @@ export default {
   // Message
   display_price: '{price} clochettes',
   home_greetings_message: 'Bienvenue sur la Bébétopédie en ligne !',
+  most_expensive_bug: 'Insecte le plus cher',
+  most_expensive_fish: 'Poisson le plus cher',
+  most_expensive_now: 'Les plus chers en ce moment',
   no_results: 'Pas de résultats ...'
 }
