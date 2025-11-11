@@ -11,8 +11,9 @@ critterpedia is a multi-framework comparison project that implements the same An
 ```
 critterpedia/
 ├── shared/              # Shared assets across all implementations
-│   ├── data/           # bugs.json, fish.json, fossils.json (~383KB)
-│   ├── images/         # PNG images for creatures (~20MB)
+│   ├── data/           # JSON files: bugs, fish, fossils, sea, art, villagers, music, furniture
+│   ├── images/         # PNG images for all items and villagers
+│   ├── audio/          # MP3 files for K.K. Slider songs and hourly music
 │   └── icons/          # SVG icons
 ├── vue2/               # Vue 2 implementation (current)
 ├── vue3/               # Vue 3 implementation (planned)
@@ -57,6 +58,7 @@ vue2/
 ├── public/               # Symlinks to shared assets
 │   ├── data/            → ../../shared/data/
 │   ├── images/          → ../../shared/images/
+│   ├── audio/           → ../../shared/audio/
 │   └── icons/           → ../../shared/icons/
 └── index.html
 ```

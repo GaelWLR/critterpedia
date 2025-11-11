@@ -21,9 +21,9 @@ This project implements the same Animal Crossing New Horizons Critterpedia appli
 
 ## Features
 
-All implementations include:
+All implementations will include:
 
-- 📊 Display bugs, fishes, and fossils from Animal Crossing New Horizons
+- 📊 Display bugs, fish, and fossils from Animal Crossing New Horizons
 - 🔤 Sort by name or price
 - 🌍 Filter by hemisphere (North/South)
 - ⏰ Filter by availability (current month, right now)
@@ -34,8 +34,9 @@ All implementations include:
 
 All framework implementations share the same data and assets located in the `shared/` directory:
 
-- **Data**: JSON files with bugs, fish, and fossils information (~383 KB)
-- **Images**: PNG images for all creatures (~20 MB)
+- **Data**: JSON files for bugs, fish, fossils, sea creatures, art, villagers, music, and furniture
+- **Images**: PNG images for all items and villagers
+- **Audio**: MP3 files for K.K. Slider songs and hourly music
 - **Icons**: SVG icons for UI elements
 
 Each framework accesses these shared assets via symlinks in their respective `public/` folders.
@@ -45,8 +46,9 @@ Each framework accesses these shared assets via symlinks in their respective `pu
 ```
 critterpedia/
 ├── shared/              # Shared assets across all implementations
-│   ├── data/           # bugs.json, fish.json, fossils.json
-│   ├── images/         # PNG images for all creatures
+│   ├── data/           # JSON files (bugs, fish, fossils, sea, art, villagers, music, furniture)
+│   ├── images/         # PNG images for all items
+│   ├── audio/          # MP3 files for music
 │   └── icons/          # SVG icons
 │
 ├── vue2/               # Vue 2 implementation
@@ -82,7 +84,10 @@ This project aims to:
 
 ## Data Source
 
-All creature data comes from the Animal Crossing New Horizons API / community data sources.
+All data and assets are sourced from [ACNHAPI](https://github.com/alexislours/ACNHAPI) by [@alexislours](https://github.com/alexislours).
+
+- JSON data files under CC BY 4.0 license
+- Images and music assets are the sole property of Nintendo
 
 ## License
 
