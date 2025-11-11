@@ -12,7 +12,7 @@ import OptionsBar from '../components/OptionsBar.vue'
 import ResourceCardGrid from '../components/ResourceCardGrid.vue'
 
 export default {
-  name: 'Fossils',
+  name: 'FossilsView',
   components: {
     OptionsBar,
     ResourceCardGrid

@@ -12,7 +12,7 @@ import OptionsBar from '../components/OptionsBar.vue'
 import ResourceCardGrid from '../components/ResourceCardGrid.vue'
 
 export default {
-  name: 'Fishes',
+  name: 'FishesView',
   components: {
     OptionsBar,
     ResourceCardGrid

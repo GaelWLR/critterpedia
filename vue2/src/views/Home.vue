@@ -36,7 +36,7 @@
 import ResourceCard from '../components/ResourceCard.vue'
 
 export default {
-  name: 'Home',
+  name: 'HomeView',
   components: {
     ResourceCard
   },
