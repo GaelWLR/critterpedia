@@ -6,16 +6,17 @@ import i18n from './plugins/i18n'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import {
   faBone,
-  faHome,
-  faFish,
   faBug,
+  faFish,
+  faHome,
+  faPalette,
+  faSort,
   faSortAlphaDown,
   faSortAlphaUp,
+  faSortDown,
   faSortNumericDown,
   faSortNumericUp,
-  faSortDown,
-  faSortUp,
-  faSort
+  faSortUp
 } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
@@ -25,16 +26,17 @@ Vue.config.productionTip = false
 
 library.add(
   faBone,
-  faHome,
-  faFish,
   faBug,
+  faFish,
+  faHome,
+  faPalette,
+  faSort,
   faSortAlphaDown,
   faSortAlphaUp,
+  faSortDown,
   faSortNumericDown,
   faSortNumericUp,
-  faSortDown,
-  faSortUp,
-  faSort
+  faSortUp
 )
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 

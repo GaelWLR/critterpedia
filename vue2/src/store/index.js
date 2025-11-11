@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
+import art from './modules/art'
 import bugs from './modules/bugs'
 import fishes from './modules/fishes'
 import fossils from './modules/fossils'
@@ -8,6 +9,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   modules: {
+    art,
     bugs,
     fishes,
     fossils
@@ -21,8 +23,18 @@ export default new Vuex.Store({
     getResourceDataSortedAndFiltered: state => resourceName => {
       let resources = state[resourceName].data.map(resource => resource)
 
-      const { availability, shadow, location } = state[resourceName].filters
+      const { availability, shadow, location, hasFake } = state[resourceName].filters
       const getSelected = filter => filter.options[filter.selected]
+
+      if (hasFake) {
+        const selectedHasFake = getSelected(hasFake)
+        if (selectedHasFake != 'all') {
+          resources = resources.filter(resource => {
+            if (selectedHasFake == 'yes') return resource.hasFake
+            if (selectedHasFake == 'no') return !resource.hasFake
+          })
+        }
+      }
 
       if (availability) {
         const [time, hemisphere] = getSelected(availability).split('-')

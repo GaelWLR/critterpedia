@@ -1,20 +1,30 @@
 export default {
+  art: 'Art',
   bugs: 'Insectes',
+  buy: 'Achat',
+  buyPrice: 'Prix d\'achat',
   fishes: 'Poissons',
   fossils: 'Fossiles',
   home: 'Accueil',
   location: 'Lieu',
   name: 'Nom',
   price: 'Prix',
+  sell: 'Vente',
+  sellPrice: 'Prix de vente',
   shadow: 'Ombre',
 
   // Sorting options
   sort_by_name: 'Trier par nom',
   sort_by_price: 'Trier par prix',
+  sort_by_buyPrice: "Trier par prix d'achat",
+  sort_by_sellPrice: 'Trier par prix de vente',
 
   // Availability
   availability: 'Disponibilité',
   all: 'Tout',
+  hasFake: 'Contrefaçon',
+  yes: 'Oui',
+  no: 'Non',
   this_month: 'Ce mois-ci',
   'this_month-north': 'Ce mois-ci (Nord)',
   'this_month-south': 'Ce mois-ci (Sud)',

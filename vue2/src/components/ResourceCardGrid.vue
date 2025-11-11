@@ -11,6 +11,8 @@
         :location="resource.location"
         :shadow="resource.shadow"
         :price="resource.price"
+        :buy-price="resource.buyPrice"
+        :sell-price="resource.sellPrice"
       />
     </transition-group>
     <h2 v-else>{{ $t('no_results') }}</h2>

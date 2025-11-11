@@ -4,7 +4,7 @@
       <img :src="imgUrl" :alt="`${name} img`" />
     </div>
     <div class="card-content">
-      <template v-for="key in keys">
+      <template v-for="key in displayKeys">
         <div v-if="getProp(key)" :key="key">
           <span class="content-title">{{ $t(key) }}&nbsp;:&nbsp;</span>
           <span class="content-text">{{ getProp(key) }}</span>
@@ -18,6 +18,9 @@
 export default {
   name: 'ResourceCard',
   props: {
+    buyPrice: {
+      type: String
+    },
     id: {
       type: Number,
       required: true
@@ -26,24 +29,29 @@ export default {
       type: String,
       required: true
     },
+    location: {
+      type: String
+    },
     name: {
       type: String,
       required: true
     },
-    location: {
+    price: {
+      type: String
+    },
+    sellPrice: {
       type: String
     },
     shadow: {
       type: String
-    },
-    price: {
-      type: String,
-      required: true
     }
   },
-  data() {
-    return {
-      keys: ['name', 'location', 'shadow', 'price']
+  computed: {
+    displayKeys() {
+      if (this.buyPrice && this.sellPrice) {
+        return ['name', 'location', 'shadow', 'buyPrice', 'sellPrice'].filter(key => this[key])
+      }
+      return ['name', 'location', 'shadow', 'price'].filter(key => this[key])
     }
   },
   methods: {

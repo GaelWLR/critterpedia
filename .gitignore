@@ -15,6 +15,7 @@
 
 ### Test ###
 **/coverage
+.playwright-mcp
 
 ### Editor ###
 .idea

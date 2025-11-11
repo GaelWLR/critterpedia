@@ -1,20 +1,30 @@
 export default {
+  art: 'Art',
   bugs: 'Bugs',
+  buy: 'Buy',
+  buyPrice: 'Buy price',
   fishes: 'Fishes',
   fossils: 'Fossils',
   home: 'Home',
   location: 'Location',
   name: 'Name',
   price: 'Price',
+  sell: 'Sell',
+  sellPrice: 'Sell price',
   shadow: 'Shadow',
 
   // Sorting options
   sort_by_name: 'Sort by name',
   sort_by_price: 'Sort by price',
+  sort_by_buyPrice: 'Sort by buy price',
+  sort_by_sellPrice: 'Sort by sell price',
 
   // Availability
   availability: 'Availability',
   all: 'All',
+  hasFake: 'Has fake',
+  yes: 'Yes',
+  no: 'No',
   this_month: 'This month',
   'this_month-north': 'This month (North)',
   'this_month-south': 'This month (South)',

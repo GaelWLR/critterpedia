@@ -20,6 +20,10 @@ export default {
           icon: 'home'
         },
         {
+          name: 'art',
+          icon: 'palette'
+        },
+        {
           name: 'bugs',
           icon: 'bug'
         },
