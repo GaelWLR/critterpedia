@@ -4,16 +4,34 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-critterpedia is a vue 2 web application that displays animal crossing new horizons data (bugs, fishes, fossils) with filtering and sorting capabilities. this is the vue2 branch of a multi-framework experiment.
+critterpedia is a multi-framework comparison project that implements the same Animal Crossing New Horizons Critterpedia application across different JavaScript frameworks. The project uses a monorepo structure with shared assets.
+
+### Repository Structure
+
+```
+critterpedia/
+├── shared/              # Shared assets across all implementations
+│   ├── data/           # bugs.json, fish.json, fossils.json (~383KB)
+│   ├── images/         # PNG images for creatures (~20MB)
+│   └── icons/          # SVG icons
+├── vue2/               # Vue 2 implementation (current)
+├── vue3/               # Vue 3 implementation (planned)
+├── sveltekit/          # SvelteKit implementation (planned)
+├── nextjs/             # Next.js implementation (planned)
+└── nuxtjs/             # Nuxt.js implementation (planned)
+```
 
 ## Development Commands
 
+**Note**: All development commands must be run from within the specific framework directory (e.g., `vue2/`).
+
+From the `vue2/` directory:
 - `yarn dev` - start vite dev server on http://localhost:3000
 - `yarn build` - build for production
 - `yarn lint` - run eslint on src files (quiet mode)
 - `yarn format` - format js/vue/css files with prettier
 
-## Architecture
+## Vue 2 Implementation Architecture
 
 ### tech stack
 - vue 2.6 with vuex for state management
@@ -26,15 +44,21 @@ critterpedia is a vue 2 web application that displays animal crossing new horizo
 ### project structure
 
 ```
-src/
-├── models/           # resource model classes
-├── store/            # vuex store with modular structure
-│   └── modules/      # bugs, fishes, fossils modules
-├── views/            # route-level components
-├── components/       # reusable components
-├── plugins/          # axios, i18n configuration
-├── utils/            # data formatting utilities
-└── router/           # vue-router configuration
+vue2/
+├── src/
+│   ├── models/           # resource model classes
+│   ├── store/            # vuex store with modular structure
+│   │   └── modules/      # bugs, fishes, fossils modules
+│   ├── views/            # route-level components
+│   ├── components/       # reusable components
+│   ├── plugins/          # axios, i18n configuration
+│   ├── utils/            # data formatting utilities
+│   └── router/           # vue-router configuration
+├── public/               # Symlinks to shared assets
+│   ├── data/            → ../../shared/data/
+│   ├── images/          → ../../shared/images/
+│   └── icons/           → ../../shared/icons/
+└── index.html
 ```
 
 ### vuex architecture
@@ -74,7 +98,7 @@ state: {
 
 1. view component dispatches module action on `created()`: `this.$store.dispatch('bugs/loadData')`
 2. module checks `loaded` flag to prevent duplicate fetches
-3. axios fetches static json from `/data/bugs.json` (configured in `src/plugins/axios/index.js`)
+3. axios fetches static json from `/data/bugs.json` (symlinked from `shared/data/`, configured in `vue2/src/plugins/axios/index.js`)
 4. raw data transformed into model instances: `data.map(bug => new Bug(bug))`
 5. dynamic filter options extracted from loaded data and committed
 6. view accesses data via computed property using root getter: `getResourceDataSortedAndFiltered('bugs')`
