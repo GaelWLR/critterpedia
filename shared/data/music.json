@@ -21,8 +21,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/1",
-        "image_uri": "https://acnhapi.com/v1/images/songs/1"
+        "music_uri": "/audio/kk/mjk_Keiji.mp3",
+        "image_uri": "/images/music/mjk_Keiji.png"
     },
     "mjk_Aloha": {
         "id": 2,
@@ -46,8 +46,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/2",
-        "image_uri": "https://acnhapi.com/v1/images/songs/2"
+        "music_uri": "/audio/kk/mjk_Aloha.mp3",
+        "image_uri": "/images/music/mjk_Aloha.png"
     },
     "mjk_DoubutuNoMachi": {
         "id": 3,
@@ -71,8 +71,8 @@
         "buy-price": null,
         "sell-price": 800,
         "isOrderable": false,
-        "music_uri": "https://acnhapi.com/v1/music/3",
-        "image_uri": "https://acnhapi.com/v1/images/songs/3"
+        "music_uri": "/audio/kk/mjk_DoubutuNoMachi.mp3",
+        "image_uri": "/images/music/mjk_DoubutuNoMachi.png"
     },
     "mjk_Idol": {
         "id": 4,
@@ -96,8 +96,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/4",
-        "image_uri": "https://acnhapi.com/v1/images/songs/4"
+        "music_uri": "/audio/kk/mjk_Idol.mp3",
+        "image_uri": "/images/music/mjk_Idol.png"
     },
     "mjk_Paris": {
         "id": 5,
@@ -121,8 +121,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/5",
-        "image_uri": "https://acnhapi.com/v1/images/songs/5"
+        "music_uri": "/audio/kk/mjk_Paris.mp3",
+        "image_uri": "/images/music/mjk_Paris.png"
     },
     "mjk_ShowaKayo": {
         "id": 6,
@@ -146,8 +146,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/6",
-        "image_uri": "https://acnhapi.com/v1/images/songs/6"
+        "music_uri": "/audio/kk/mjk_ShowaKayo.mp3",
+        "image_uri": "/images/music/mjk_ShowaKayo.png"
     },
     "mjk_EuroBeat": {
         "id": 7,
@@ -171,8 +171,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/7",
-        "image_uri": "https://acnhapi.com/v1/images/songs/7"
+        "music_uri": "/audio/kk/mjk_EuroBeat.mp3",
+        "image_uri": "/images/music/mjk_EuroBeat.png"
     },
     "mjk_Drive": {
         "id": 8,
@@ -196,8 +196,8 @@
         "buy-price": null,
         "sell-price": 800,
         "isOrderable": false,
-        "music_uri": "https://acnhapi.com/v1/music/8",
-        "image_uri": "https://acnhapi.com/v1/images/songs/8"
+        "music_uri": "/audio/kk/mjk_Drive.mp3",
+        "image_uri": "/images/music/mjk_Drive.png"
     },
     "mjk_Sayonara": {
         "id": 9,
@@ -221,8 +221,8 @@
         "buy-price": null,
         "sell-price": 800,
         "isOrderable": false,
-        "music_uri": "https://acnhapi.com/v1/music/9",
-        "image_uri": "https://acnhapi.com/v1/images/songs/9"
+        "music_uri": "/audio/kk/mjk_Sayonara.mp3",
+        "image_uri": "/images/music/mjk_Sayonara.png"
     },
     "mjk_MoriNoSeikatsu": {
         "id": 10,
@@ -246,8 +246,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/10",
-        "image_uri": "https://acnhapi.com/v1/images/songs/10"
+        "music_uri": "/audio/kk/mjk_MoriNoSeikatsu.mp3",
+        "image_uri": "/images/music/mjk_MoriNoSeikatsu.png"
     },
     "mjk_KekeRider": {
         "id": 11,
@@ -271,8 +271,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/11",
-        "image_uri": "https://acnhapi.com/v1/images/songs/11"
+        "music_uri": "/audio/kk/mjk_KekeRider.mp3",
+        "image_uri": "/images/music/mjk_KekeRider.png"
     },
     "mjk_UtataneNoYume": {
         "id": 12,
@@ -296,8 +296,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/12",
-        "image_uri": "https://acnhapi.com/v1/images/songs/12"
+        "music_uri": "/audio/kk/mjk_UtataneNoYume.mp3",
+        "image_uri": "/images/music/mjk_UtataneNoYume.png"
     },
     "mjk_Daisuki": {
         "id": 13,
@@ -321,8 +321,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/13",
-        "image_uri": "https://acnhapi.com/v1/images/songs/13"
+        "music_uri": "/audio/kk/mjk_Daisuki.mp3",
+        "image_uri": "/images/music/mjk_Daisuki.png"
     },
     "mjk_China": {
         "id": 14,
@@ -346,8 +346,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/14",
-        "image_uri": "https://acnhapi.com/v1/images/songs/14"
+        "music_uri": "/audio/kk/mjk_China.mp3",
+        "image_uri": "/images/music/mjk_China.png"
     },
     "mjk_Hollywood": {
         "id": 15,
@@ -371,8 +371,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/15",
-        "image_uri": "https://acnhapi.com/v1/images/songs/15"
+        "music_uri": "/audio/kk/mjk_Hollywood.mp3",
+        "image_uri": "/images/music/mjk_Hollywood.png"
     },
     "mjk_Maria": {
         "id": 16,
@@ -396,8 +396,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/16",
-        "image_uri": "https://acnhapi.com/v1/images/songs/16"
+        "music_uri": "/audio/kk/mjk_Maria.mp3",
+        "image_uri": "/images/music/mjk_Maria.png"
     },
     "mjk_Ballad": {
         "id": 17,
@@ -421,8 +421,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/17",
-        "image_uri": "https://acnhapi.com/v1/images/songs/17"
+        "music_uri": "/audio/kk/mjk_Ballad.mp3",
+        "image_uri": "/images/music/mjk_Ballad.png"
     },
     "mjk_Roma": {
         "id": 18,
@@ -446,8 +446,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/18",
-        "image_uri": "https://acnhapi.com/v1/images/songs/18"
+        "music_uri": "/audio/kk/mjk_Roma.mp3",
+        "image_uri": "/images/music/mjk_Roma.png"
     },
     "mjk_BirthdaySong": {
         "id": 19,
@@ -471,8 +471,8 @@
         "buy-price": null,
         "sell-price": 800,
         "isOrderable": false,
-        "music_uri": "https://acnhapi.com/v1/music/19",
-        "image_uri": "https://acnhapi.com/v1/images/songs/19"
+        "music_uri": "/audio/kk/mjk_BirthdaySong.mp3",
+        "image_uri": "/images/music/mjk_BirthdaySong.png"
     },
     "mjk_Blues": {
         "id": 20,
@@ -496,8 +496,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/20",
-        "image_uri": "https://acnhapi.com/v1/images/songs/20"
+        "music_uri": "/audio/kk/mjk_Blues.mp3",
+        "image_uri": "/images/music/mjk_Blues.png"
     },
     "mjk_Bossa": {
         "id": 21,
@@ -521,8 +521,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/21",
-        "image_uri": "https://acnhapi.com/v1/images/songs/21"
+        "music_uri": "/audio/kk/mjk_Bossa.mp3",
+        "image_uri": "/images/music/mjk_Bossa.png"
     },
     "mjk_Caripso": {
         "id": 22,
@@ -546,8 +546,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/22",
-        "image_uri": "https://acnhapi.com/v1/images/songs/22"
+        "music_uri": "/audio/kk/mjk_Caripso.mp3",
+        "image_uri": "/images/music/mjk_Caripso.png"
     },
     "mjk_Turkey": {
         "id": 23,
@@ -571,8 +571,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/23",
-        "image_uri": "https://acnhapi.com/v1/images/songs/23"
+        "music_uri": "/audio/kk/mjk_Turkey.mp3",
+        "image_uri": "/images/music/mjk_Turkey.png"
     },
     "mjk_Sanbika": {
         "id": 24,
@@ -596,8 +596,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/24",
-        "image_uri": "https://acnhapi.com/v1/images/songs/24"
+        "music_uri": "/audio/kk/mjk_Sanbika.mp3",
+        "image_uri": "/images/music/mjk_Sanbika.png"
     },
     "mjk_Peru": {
         "id": 25,
@@ -621,8 +621,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/25",
-        "image_uri": "https://acnhapi.com/v1/images/songs/25"
+        "music_uri": "/audio/kk/mjk_Peru.mp3",
+        "image_uri": "/images/music/mjk_Peru.png"
     },
     "mjk_Country": {
         "id": 26,
@@ -646,8 +646,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/26",
-        "image_uri": "https://acnhapi.com/v1/images/songs/26"
+        "music_uri": "/audio/kk/mjk_Country.mp3",
+        "image_uri": "/images/music/mjk_Country.png"
     },
     "mjk_Urban": {
         "id": 27,
@@ -671,8 +671,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/27",
-        "image_uri": "https://acnhapi.com/v1/images/songs/27"
+        "music_uri": "/audio/kk/mjk_Urban.mp3",
+        "image_uri": "/images/music/mjk_Urban.png"
     },
     "mjk_Drumnbass": {
         "id": 28,
@@ -696,8 +696,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/28",
-        "image_uri": "https://acnhapi.com/v1/images/songs/28"
+        "music_uri": "/audio/kk/mjk_Drumnbass.mp3",
+        "image_uri": "/images/music/mjk_Drumnbass.png"
     },
     "mjk_KowaiUta": {
         "id": 29,
@@ -721,8 +721,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/29",
-        "image_uri": "https://acnhapi.com/v1/images/songs/29"
+        "music_uri": "/audio/kk/mjk_KowaiUta.mp3",
+        "image_uri": "/images/music/mjk_KowaiUta.png"
     },
     "mjk_Disco": {
         "id": 30,
@@ -746,8 +746,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/30",
-        "image_uri": "https://acnhapi.com/v1/images/songs/30"
+        "music_uri": "/audio/kk/mjk_Disco.mp3",
+        "image_uri": "/images/music/mjk_Disco.png"
     },
     "mjk_Dixie": {
         "id": 31,
@@ -771,8 +771,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/31",
-        "image_uri": "https://acnhapi.com/v1/images/songs/31"
+        "music_uri": "/audio/kk/mjk_Dixie.mp3",
+        "image_uri": "/images/music/mjk_Dixie.png"
     },
     "mjk_Etude": {
         "id": 32,
@@ -796,8 +796,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/32",
-        "image_uri": "https://acnhapi.com/v1/images/songs/32"
+        "music_uri": "/audio/kk/mjk_Etude.mp3",
+        "image_uri": "/images/music/mjk_Etude.png"
     },
     "mjk_Haisai": {
         "id": 33,
@@ -821,8 +821,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/33",
-        "image_uri": "https://acnhapi.com/v1/images/songs/33"
+        "music_uri": "/audio/kk/mjk_Haisai.mp3",
+        "image_uri": "/images/music/mjk_Haisai.png"
     },
     "mjk_Flamenco": {
         "id": 34,
@@ -846,8 +846,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/34",
-        "image_uri": "https://acnhapi.com/v1/images/songs/34"
+        "music_uri": "/audio/kk/mjk_Flamenco.mp3",
+        "image_uri": "/images/music/mjk_Flamenco.png"
     },
     "mjk_Minyo": {
         "id": 35,
@@ -871,8 +871,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/35",
-        "image_uri": "https://acnhapi.com/v1/images/songs/35"
+        "music_uri": "/audio/kk/mjk_Minyo.mp3",
+        "image_uri": "/images/music/mjk_Minyo.png"
     },
     "mjk_Fusion": {
         "id": 36,
@@ -896,8 +896,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/36",
-        "image_uri": "https://acnhapi.com/v1/images/songs/36"
+        "music_uri": "/audio/kk/mjk_Fusion.mp3",
+        "image_uri": "/images/music/mjk_Fusion.png"
     },
     "mjk_Raregroove": {
         "id": 37,
@@ -921,8 +921,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/37",
-        "image_uri": "https://acnhapi.com/v1/images/songs/37"
+        "music_uri": "/audio/kk/mjk_Raregroove.mp3",
+        "image_uri": "/images/music/mjk_Raregroove.png"
     },
     "mjk_NewOrleans": {
         "id": 38,
@@ -946,8 +946,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/38",
-        "image_uri": "https://acnhapi.com/v1/images/songs/38"
+        "music_uri": "/audio/kk/mjk_NewOrleans.mp3",
+        "image_uri": "/images/music/mjk_NewOrleans.png"
     },
     "mjk_House": {
         "id": 39,
@@ -971,8 +971,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/39",
-        "image_uri": "https://acnhapi.com/v1/images/songs/39"
+        "music_uri": "/audio/kk/mjk_House.mp3",
+        "image_uri": "/images/music/mjk_House.png"
     },
     "mjk_DoubutsuNoShima": {
         "id": 40,
@@ -996,8 +996,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/40",
-        "image_uri": "https://acnhapi.com/v1/images/songs/40"
+        "music_uri": "/audio/kk/mjk_DoubutsuNoShima.mp3",
+        "image_uri": "/images/music/mjk_DoubutsuNoShima.png"
     },
     "mjk_Jazz": {
         "id": 41,
@@ -1021,8 +1021,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/41",
-        "image_uri": "https://acnhapi.com/v1/images/songs/41"
+        "music_uri": "/audio/kk/mjk_Jazz.mp3",
+        "image_uri": "/images/music/mjk_Jazz.png"
     },
     "mjk_Jongara": {
         "id": 42,
@@ -1046,8 +1046,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/42",
-        "image_uri": "https://acnhapi.com/v1/images/songs/42"
+        "music_uri": "/audio/kk/mjk_Jongara.mp3",
+        "image_uri": "/images/music/mjk_Jongara.png"
     },
     "mjk_Enka": {
         "id": 43,
@@ -1071,8 +1071,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/43",
-        "image_uri": "https://acnhapi.com/v1/images/songs/43"
+        "music_uri": "/audio/kk/mjk_Enka.mp3",
+        "image_uri": "/images/music/mjk_Enka.png"
     },
     "mjk_LoveSong": {
         "id": 44,
@@ -1096,8 +1096,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/44",
-        "image_uri": "https://acnhapi.com/v1/images/songs/44"
+        "music_uri": "/audio/kk/mjk_LoveSong.mp3",
+        "image_uri": "/images/music/mjk_LoveSong.png"
     },
     "mjk_Lullaby": {
         "id": 45,
@@ -1121,8 +1121,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/45",
-        "image_uri": "https://acnhapi.com/v1/images/songs/45"
+        "music_uri": "/audio/kk/mjk_Lullaby.mp3",
+        "image_uri": "/images/music/mjk_Lullaby.png"
     },
     "mjk_Mambo": {
         "id": 46,
@@ -1146,8 +1146,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/46",
-        "image_uri": "https://acnhapi.com/v1/images/songs/46"
+        "music_uri": "/audio/kk/mjk_Mambo.mp3",
+        "image_uri": "/images/music/mjk_Mambo.png"
     },
     "mjk_Gamelan": {
         "id": 47,
@@ -1171,8 +1171,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/47",
-        "image_uri": "https://acnhapi.com/v1/images/songs/47"
+        "music_uri": "/audio/kk/mjk_Gamelan.mp3",
+        "image_uri": "/images/music/mjk_Gamelan.png"
     },
     "mjk_March": {
         "id": 48,
@@ -1196,8 +1196,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/48",
-        "image_uri": "https://acnhapi.com/v1/images/songs/48"
+        "music_uri": "/audio/kk/mjk_March.mp3",
+        "image_uri": "/images/music/mjk_March.png"
     },
     "mjk_Senor": {
         "id": 49,
@@ -1221,8 +1221,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/49",
-        "image_uri": "https://acnhapi.com/v1/images/songs/49"
+        "music_uri": "/audio/kk/mjk_Senor.mp3",
+        "image_uri": "/images/music/mjk_Senor.png"
     },
     "mjk_Metal": {
         "id": 50,
@@ -1246,8 +1246,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/50",
-        "image_uri": "https://acnhapi.com/v1/images/songs/50"
+        "music_uri": "/audio/kk/mjk_Metal.mp3",
+        "image_uri": "/images/music/mjk_Metal.png"
     },
     "mjk_Milonga": {
         "id": 51,
@@ -1271,8 +1271,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/51",
-        "image_uri": "https://acnhapi.com/v1/images/songs/51"
+        "music_uri": "/audio/kk/mjk_Milonga.mp3",
+        "image_uri": "/images/music/mjk_Milonga.png"
     },
     "mjk_Bolero": {
         "id": 52,
@@ -1296,8 +1296,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/52",
-        "image_uri": "https://acnhapi.com/v1/images/songs/52"
+        "music_uri": "/audio/kk/mjk_Bolero.mp3",
+        "image_uri": "/images/music/mjk_Bolero.png"
     },
     "mjk_Maharaja": {
         "id": 53,
@@ -1321,8 +1321,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/53",
-        "image_uri": "https://acnhapi.com/v1/images/songs/53"
+        "music_uri": "/audio/kk/mjk_Maharaja.mp3",
+        "image_uri": "/images/music/mjk_Maharaja.png"
     },
     "mjk_Parade": {
         "id": 54,
@@ -1346,8 +1346,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/54",
-        "image_uri": "https://acnhapi.com/v1/images/songs/54"
+        "music_uri": "/audio/kk/mjk_Parade.mp3",
+        "image_uri": "/images/music/mjk_Parade.png"
     },
     "mjk_RagTime": {
         "id": 55,
@@ -1371,8 +1371,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/55",
-        "image_uri": "https://acnhapi.com/v1/images/songs/55"
+        "music_uri": "/audio/kk/mjk_RagTime.mp3",
+        "image_uri": "/images/music/mjk_RagTime.png"
     },
     "mjk_Ondo": {
         "id": 56,
@@ -1396,8 +1396,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/56",
-        "image_uri": "https://acnhapi.com/v1/images/songs/56"
+        "music_uri": "/audio/kk/mjk_Ondo.mp3",
+        "image_uri": "/images/music/mjk_Ondo.png"
     },
     "mjk_Reggae": {
         "id": 57,
@@ -1421,8 +1421,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/57",
-        "image_uri": "https://acnhapi.com/v1/images/songs/57"
+        "music_uri": "/audio/kk/mjk_Reggae.mp3",
+        "image_uri": "/images/music/mjk_Reggae.png"
     },
     "mjk_Rock": {
         "id": 58,
@@ -1446,8 +1446,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/58",
-        "image_uri": "https://acnhapi.com/v1/images/songs/58"
+        "music_uri": "/audio/kk/mjk_Rock.mp3",
+        "image_uri": "/images/music/mjk_Rock.png"
     },
     "mjk_KekeBilly": {
         "id": 59,
@@ -1471,8 +1471,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/59",
-        "image_uri": "https://acnhapi.com/v1/images/songs/59"
+        "music_uri": "/audio/kk/mjk_KekeBilly.mp3",
+        "image_uri": "/images/music/mjk_KekeBilly.png"
     },
     "mjk_Afro": {
         "id": 60,
@@ -1496,8 +1496,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/60",
-        "image_uri": "https://acnhapi.com/v1/images/songs/60"
+        "music_uri": "/audio/kk/mjk_Afro.mp3",
+        "image_uri": "/images/music/mjk_Afro.png"
     },
     "mjk_Salsa": {
         "id": 61,
@@ -1521,8 +1521,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/61",
-        "image_uri": "https://acnhapi.com/v1/images/songs/61"
+        "music_uri": "/audio/kk/mjk_Salsa.mp3",
+        "image_uri": "/images/music/mjk_Salsa.png"
     },
     "mjk_Samba": {
         "id": 62,
@@ -1546,8 +1546,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/62",
-        "image_uri": "https://acnhapi.com/v1/images/songs/62"
+        "music_uri": "/audio/kk/mjk_Samba.mp3",
+        "image_uri": "/images/music/mjk_Samba.png"
     },
     "mjk_Ska": {
         "id": 63,
@@ -1571,8 +1571,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/63",
-        "image_uri": "https://acnhapi.com/v1/images/songs/63"
+        "music_uri": "/audio/kk/mjk_Ska.mp3",
+        "image_uri": "/images/music/mjk_Ska.png"
     },
     "mjk_Sonata": {
         "id": 64,
@@ -1596,8 +1596,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/64",
-        "image_uri": "https://acnhapi.com/v1/images/songs/64"
+        "music_uri": "/audio/kk/mjk_Sonata.mp3",
+        "image_uri": "/images/music/mjk_Sonata.png"
     },
     "mjk_KekeSong": {
         "id": 65,
@@ -1621,8 +1621,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/65",
-        "image_uri": "https://acnhapi.com/v1/images/songs/65"
+        "music_uri": "/audio/kk/mjk_KekeSong.mp3",
+        "image_uri": "/images/music/mjk_KekeSong.png"
     },
     "mjk_Soul": {
         "id": 66,
@@ -1646,8 +1646,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/66",
-        "image_uri": "https://acnhapi.com/v1/images/songs/66"
+        "music_uri": "/audio/kk/mjk_Soul.mp3",
+        "image_uri": "/images/music/mjk_Soul.png"
     },
     "mjk_Cossack": {
         "id": 67,
@@ -1671,8 +1671,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/67",
-        "image_uri": "https://acnhapi.com/v1/images/songs/67"
+        "music_uri": "/audio/kk/mjk_Cossack.mp3",
+        "image_uri": "/images/music/mjk_Cossack.png"
     },
     "mjk_Osanpo": {
         "id": 68,
@@ -1696,8 +1696,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/68",
-        "image_uri": "https://acnhapi.com/v1/images/songs/68"
+        "music_uri": "/audio/kk/mjk_Osanpo.mp3",
+        "image_uri": "/images/music/mjk_Osanpo.png"
     },
     "mjk_Swing": {
         "id": 69,
@@ -1721,8 +1721,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/69",
-        "image_uri": "https://acnhapi.com/v1/images/songs/69"
+        "music_uri": "/audio/kk/mjk_Swing.mp3",
+        "image_uri": "/images/music/mjk_Swing.png"
     },
     "mjk_Electronica": {
         "id": 70,
@@ -1746,8 +1746,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/70",
-        "image_uri": "https://acnhapi.com/v1/images/songs/70"
+        "music_uri": "/audio/kk/mjk_Electronica.mp3",
+        "image_uri": "/images/music/mjk_Electronica.png"
     },
     "mjk_Tango": {
         "id": 71,
@@ -1771,8 +1771,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/71",
-        "image_uri": "https://acnhapi.com/v1/images/songs/71"
+        "music_uri": "/audio/kk/mjk_Tango.mp3",
+        "image_uri": "/images/music/mjk_Tango.png"
     },
     "mjk_TechnoBeat": {
         "id": 72,
@@ -1796,8 +1796,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/72",
-        "image_uri": "https://acnhapi.com/v1/images/songs/72"
+        "music_uri": "/audio/kk/mjk_TechnoBeat.mp3",
+        "image_uri": "/images/music/mjk_TechnoBeat.png"
     },
     "mjk_Waltz": {
         "id": 73,
@@ -1821,8 +1821,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/73",
-        "image_uri": "https://acnhapi.com/v1/images/songs/73"
+        "music_uri": "/audio/kk/mjk_Waltz.mp3",
+        "image_uri": "/images/music/mjk_Waltz.png"
     },
     "mjk_Western": {
         "id": 74,
@@ -1846,8 +1846,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/74",
-        "image_uri": "https://acnhapi.com/v1/images/songs/74"
+        "music_uri": "/audio/kk/mjk_Western.mp3",
+        "image_uri": "/images/music/mjk_Western.png"
     },
     "mjk_Daimyo": {
         "id": 75,
@@ -1871,8 +1871,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/75",
-        "image_uri": "https://acnhapi.com/v1/images/songs/75"
+        "music_uri": "/audio/kk/mjk_Daimyo.mp3",
+        "image_uri": "/images/music/mjk_Daimyo.png"
     },
     "mjk_Irish": {
         "id": 76,
@@ -1896,8 +1896,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/76",
-        "image_uri": "https://acnhapi.com/v1/images/songs/76"
+        "music_uri": "/audio/kk/mjk_Irish.mp3",
+        "image_uri": "/images/music/mjk_Irish.png"
     },
     "mjk_HunaUta2001": {
         "id": 77,
@@ -1921,8 +1921,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/77",
-        "image_uri": "https://acnhapi.com/v1/images/songs/77"
+        "music_uri": "/audio/kk/mjk_HunaUta2001.mp3",
+        "image_uri": "/images/music/mjk_HunaUta2001.png"
     },
     "mjk_Alpine": {
         "id": 78,
@@ -1946,8 +1946,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/78",
-        "image_uri": "https://acnhapi.com/v1/images/songs/78"
+        "music_uri": "/audio/kk/mjk_Alpine.mp3",
+        "image_uri": "/images/music/mjk_Alpine.png"
     },
     "mjk_Sensei": {
         "id": 79,
@@ -1971,8 +1971,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/79",
-        "image_uri": "https://acnhapi.com/v1/images/songs/79"
+        "music_uri": "/audio/kk/mjk_Sensei.mp3",
+        "image_uri": "/images/music/mjk_Sensei.png"
     },
     "mjk_BokuNoBasho": {
         "id": 80,
@@ -1996,8 +1996,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/80",
-        "image_uri": "https://acnhapi.com/v1/images/songs/80"
+        "music_uri": "/audio/kk/mjk_BokuNoBasho.mp3",
+        "image_uri": "/images/music/mjk_BokuNoBasho.png"
     },
     "mjk_Napolitan": {
         "id": 81,
@@ -2021,8 +2021,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/81",
-        "image_uri": "https://acnhapi.com/v1/images/songs/81"
+        "music_uri": "/audio/kk/mjk_Napolitan.mp3",
+        "image_uri": "/images/music/mjk_Napolitan.png"
     },
     "mjk_OnlyMe": {
         "id": 82,
@@ -2046,8 +2046,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/82",
-        "image_uri": "https://acnhapi.com/v1/images/songs/82"
+        "music_uri": "/audio/kk/mjk_OnlyMe.mp3",
+        "image_uri": "/images/music/mjk_OnlyMe.png"
     },
     "mjk_KangaeChu": {
         "id": 83,
@@ -2071,8 +2071,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/83",
-        "image_uri": "https://acnhapi.com/v1/images/songs/83"
+        "music_uri": "/audio/kk/mjk_KangaeChu.mp3",
+        "image_uri": "/images/music/mjk_KangaeChu.png"
     },
     "mjk_RocknRoll": {
         "id": 84,
@@ -2096,8 +2096,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/84",
-        "image_uri": "https://acnhapi.com/v1/images/songs/84"
+        "music_uri": "/audio/kk/mjk_RocknRoll.mp3",
+        "image_uri": "/images/music/mjk_RocknRoll.png"
     },
     "mjk_Gospel": {
         "id": 85,
@@ -2121,8 +2121,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/85",
-        "image_uri": "https://acnhapi.com/v1/images/songs/85"
+        "music_uri": "/audio/kk/mjk_Gospel.mp3",
+        "image_uri": "/images/music/mjk_Gospel.png"
     },
     "mjk_Minimal": {
         "id": 86,
@@ -2146,8 +2146,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/86",
-        "image_uri": "https://acnhapi.com/v1/images/songs/86"
+        "music_uri": "/audio/kk/mjk_Minimal.mp3",
+        "image_uri": "/images/music/mjk_Minimal.png"
     },
     "mjk_HaruNoKomorebi": {
         "id": 87,
@@ -2171,8 +2171,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/87",
-        "image_uri": "https://acnhapi.com/v1/images/songs/87"
+        "music_uri": "/audio/kk/mjk_HaruNoKomorebi.mp3",
+        "image_uri": "/images/music/mjk_HaruNoKomorebi.png"
     },
     "mjk_BlueOnigiri": {
         "id": 88,
@@ -2196,8 +2196,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/88",
-        "image_uri": "https://acnhapi.com/v1/images/songs/88"
+        "music_uri": "/audio/kk/mjk_BlueOnigiri.mp3",
+        "image_uri": "/images/music/mjk_BlueOnigiri.png"
     },
     "mjk_NiDanZaka": {
         "id": 89,
@@ -2221,8 +2221,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/89",
-        "image_uri": "https://acnhapi.com/v1/images/songs/89"
+        "music_uri": "/audio/kk/mjk_NiDanZaka.mp3",
+        "image_uri": "/images/music/mjk_NiDanZaka.png"
     },
     "mjk_Eleki": {
         "id": 90,
@@ -2246,8 +2246,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/90",
-        "image_uri": "https://acnhapi.com/v1/images/songs/90"
+        "music_uri": "/audio/kk/mjk_Eleki.mp3",
+        "image_uri": "/images/music/mjk_Eleki.png"
     },
     "mjk_Funk": {
         "id": 91,
@@ -2271,8 +2271,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/91",
-        "image_uri": "https://acnhapi.com/v1/images/songs/91"
+        "music_uri": "/audio/kk/mjk_Funk.mp3",
+        "image_uri": "/images/music/mjk_Funk.png"
     },
     "mjk_NamiNami": {
         "id": 92,
@@ -2296,8 +2296,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/92",
-        "image_uri": "https://acnhapi.com/v1/images/songs/92"
+        "music_uri": "/audio/kk/mjk_NamiNami.mp3",
+        "image_uri": "/images/music/mjk_NamiNami.png"
     },
     "mjk_Ototoi": {
         "id": 93,
@@ -2321,8 +2321,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/93",
-        "image_uri": "https://acnhapi.com/v1/images/songs/93"
+        "music_uri": "/audio/kk/mjk_Ototoi.mp3",
+        "image_uri": "/images/music/mjk_Ototoi.png"
     },
     "mjk_Horo": {
         "id": 94,
@@ -2346,8 +2346,8 @@
         "buy-price": 3200,
         "sell-price": 800,
         "isOrderable": true,
-        "music_uri": "https://acnhapi.com/v1/music/94",
-        "image_uri": "https://acnhapi.com/v1/images/songs/94"
+        "music_uri": "/audio/kk/mjk_Horo.mp3",
+        "image_uri": "/images/music/mjk_Horo.png"
     },
     "mjk_MainTheme": {
         "id": 95,
@@ -2371,7 +2371,7 @@
         "buy-price": null,
         "sell-price": 800,
         "isOrderable": false,
-        "music_uri": "https://acnhapi.com/v1/music/95",
-        "image_uri": "https://acnhapi.com/v1/images/songs/95"
+        "music_uri": "/audio/kk/mjk_MainTheme.mp3",
+        "image_uri": "/images/music/mjk_MainTheme.png"
     }
 }

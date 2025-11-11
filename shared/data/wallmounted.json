@@ -46,7 +46,7 @@
       },
       "buy-price": 63000,
       "sell-price": 15750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_0_0"
+      "image_uri": "/images/furniture/FtrAirconditioner_Remake_0_0.png"
     },
     {
       "variant": "Gray",
@@ -94,7 +94,7 @@
       },
       "buy-price": 63000,
       "sell-price": 15750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_1_0"
+      "image_uri": "/images/furniture/FtrAirconditioner_Remake_1_0.png"
     },
     {
       "variant": "Black",
@@ -142,7 +142,7 @@
       },
       "buy-price": 63000,
       "sell-price": 15750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_2_0"
+      "image_uri": "/images/furniture/FtrAirconditioner_Remake_2_0.png"
     },
     {
       "variant": "Pink",
@@ -190,7 +190,7 @@
       },
       "buy-price": 63000,
       "sell-price": 15750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_3_0"
+      "image_uri": "/images/furniture/FtrAirconditioner_Remake_3_0.png"
     },
     {
       "variant": "Blue",
@@ -238,7 +238,7 @@
       },
       "buy-price": 63000,
       "sell-price": 15750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_4_0"
+      "image_uri": "/images/furniture/FtrAirconditioner_Remake_4_0.png"
     },
     {
       "variant": "Brown",
@@ -286,7 +286,7 @@
       },
       "buy-price": 63000,
       "sell-price": 15750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_5_0"
+      "image_uri": "/images/furniture/FtrAirconditioner_Remake_5_0.png"
     }
   ],
   "antique_phone": [
@@ -336,7 +336,7 @@
       },
       "buy-price": 16000,
       "sell-price": 4000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAntiquePhoneW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrAntiquePhoneW_Remake_0_0.png"
     },
     {
       "variant": "Natural",
@@ -384,7 +384,7 @@
       },
       "buy-price": 16000,
       "sell-price": 4000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAntiquePhoneW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrAntiquePhoneW_Remake_1_0.png"
     },
     {
       "variant": "Black",
@@ -432,7 +432,7 @@
       },
       "buy-price": 16000,
       "sell-price": 4000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAntiquePhoneW_Remake_2_0"
+      "image_uri": "/images/furniture/FtrAntiquePhoneW_Remake_2_0.png"
     }
   ],
   "autograph_cards": [
@@ -482,7 +482,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_0_0"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_0_0.png"
     },
     {
       "variant": "Signature",
@@ -530,7 +530,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_0_1"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_0_1.png"
     },
     {
       "variant": "Handprints",
@@ -578,7 +578,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_1_0"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_1_0.png"
     },
     {
       "variant": "Handprints",
@@ -626,7 +626,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_1_1"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_1_1.png"
     },
     {
       "variant": "Illustration",
@@ -674,7 +674,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_2_0"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_2_0.png"
     },
     {
       "variant": "Illustration",
@@ -722,7 +722,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_2_1"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_2_1.png"
     },
     {
       "variant": "Words of wisdom",
@@ -770,7 +770,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_3_0"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_3_0.png"
     },
     {
       "variant": "Words of wisdom",
@@ -818,7 +818,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_3_1"
+      "image_uri": "/images/furniture/FtrAutograph_Remake_3_1.png"
     }
   ],
   "bamboo_wall_decoration": [
@@ -868,7 +868,7 @@
       },
       "buy-price": null,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBambooFlowerwall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrBambooFlowerwall_Remake_0_0.png"
     },
     {
       "variant": "Dried bamboo",
@@ -916,7 +916,7 @@
       },
       "buy-price": null,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBambooFlowerwall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrBambooFlowerwall_Remake_1_0.png"
     },
     {
       "variant": "Smoke-cured bamboo",
@@ -964,7 +964,7 @@
       },
       "buy-price": null,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBambooFlowerwall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrBambooFlowerwall_Remake_2_0.png"
     }
   ],
   "bathroom_towel_rack": [
@@ -1014,7 +1014,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrTowelrackWall_Remake_0_0.png"
     },
     {
       "variant": "Gold",
@@ -1062,7 +1062,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrTowelrackWall_Remake_1_0.png"
     },
     {
       "variant": "Copper",
@@ -1110,7 +1110,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrTowelrackWall_Remake_2_0.png"
     },
     {
       "variant": "Black",
@@ -1158,7 +1158,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrTowelrackWall_Remake_3_0.png"
     }
   ],
   "blue_rose_wreath": [
@@ -1208,7 +1208,7 @@
       },
       "buy-price": null,
       "sell-price": 20000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseUrtraRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathRoseUrtraRare.png"
     }
   ],
   "bone_doorplate": [
@@ -1258,7 +1258,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -1306,7 +1306,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_1_0.png"
     },
     {
       "variant": "Black",
@@ -1354,7 +1354,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_2_0.png"
     },
     {
       "variant": "Pink",
@@ -1402,7 +1402,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_3_0.png"
     },
     {
       "variant": "Red",
@@ -1450,7 +1450,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_4_0.png"
     },
     {
       "variant": "Yellow",
@@ -1498,7 +1498,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_5_0.png"
     },
     {
       "variant": "Blue",
@@ -1546,7 +1546,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_6_0.png"
     },
     {
       "variant": "Natural wood",
@@ -1594,7 +1594,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorPlateBone_Remake_7_0.png"
     }
   ],
   "boomerang": [
@@ -1644,7 +1644,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_0_0"
+      "image_uri": "/images/furniture/FtrBoomerang_Remake_0_0.png"
     },
     {
       "variant": "Green & orange",
@@ -1692,7 +1692,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_1_0"
+      "image_uri": "/images/furniture/FtrBoomerang_Remake_1_0.png"
     },
     {
       "variant": "Dark brown",
@@ -1740,7 +1740,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_2_0"
+      "image_uri": "/images/furniture/FtrBoomerang_Remake_2_0.png"
     },
     {
       "variant": "Red & black",
@@ -1788,7 +1788,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_3_0"
+      "image_uri": "/images/furniture/FtrBoomerang_Remake_3_0.png"
     },
     {
       "variant": "White & blue",
@@ -1836,7 +1836,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_4_0"
+      "image_uri": "/images/furniture/FtrBoomerang_Remake_4_0.png"
     }
   ],
   "breaker": [
@@ -1886,7 +1886,7 @@
       },
       "buy-price": 820,
       "sell-price": 205,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBreaker"
+      "image_uri": "/images/furniture/FtrBreaker.png"
     }
   ],
   "bronze_HHA_plaque": [
@@ -1936,7 +1936,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShieldHhaBronze"
+      "image_uri": "/images/furniture/FtrShieldHhaBronze.png"
     }
   ],
   "broom_and_dustpan": [
@@ -1986,7 +1986,7 @@
       },
       "buy-price": 910,
       "sell-price": 227,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_0_0"
+      "image_uri": "/images/furniture/FtrCleaningset_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -2034,7 +2034,7 @@
       },
       "buy-price": 910,
       "sell-price": 227,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_1_0"
+      "image_uri": "/images/furniture/FtrCleaningset_Remake_1_0.png"
     },
     {
       "variant": "Dark brown",
@@ -2082,7 +2082,7 @@
       },
       "buy-price": 910,
       "sell-price": 227,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_2_0"
+      "image_uri": "/images/furniture/FtrCleaningset_Remake_2_0.png"
     },
     {
       "variant": "Colorful",
@@ -2130,7 +2130,7 @@
       },
       "buy-price": 910,
       "sell-price": 227,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_3_0"
+      "image_uri": "/images/furniture/FtrCleaningset_Remake_3_0.png"
     }
   ],
   "bug_plaque": [
@@ -2180,7 +2180,7 @@
       },
       "buy-price": null,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMuseumInsectWall"
+      "image_uri": "/images/furniture/FtrMuseumInsectWall.png"
     }
   ],
   "Bunny_Day_glowy_garland": [
@@ -2230,7 +2230,7 @@
       },
       "buy-price": null,
       "sell-price": 2400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrEggLampWall"
+      "image_uri": "/images/furniture/FtrEggLampWall.png"
     }
   ],
   "Bunny_Day_wall_clock": [
@@ -2280,7 +2280,7 @@
       },
       "buy-price": null,
       "sell-price": 1200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrEggClock"
+      "image_uri": "/images/furniture/FtrEggClock.png"
     }
   ],
   "Bunny_Day_wreath": [
@@ -2330,7 +2330,7 @@
       },
       "buy-price": null,
       "sell-price": 2400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathEaster"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathEaster.png"
     }
   ],
   "butterfly-fish_model": [
@@ -2380,7 +2380,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishChouchouuoWall"
+      "image_uri": "/images/furniture/FtrFishChouchouuoWall.png"
     }
   ],
   "cherry_lamp": [
@@ -2430,7 +2430,7 @@
       },
       "buy-price": null,
       "sell-price": 2400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsLampW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrFruitsLampW_Remake_0_0.png"
     },
     {
       "variant": "Black cherry",
@@ -2478,7 +2478,7 @@
       },
       "buy-price": null,
       "sell-price": 2400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsLampW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrFruitsLampW_Remake_1_0.png"
     }
   ],
   "cherry-blossom_clock": [
@@ -2528,7 +2528,7 @@
       },
       "buy-price": null,
       "sell-price": 2750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSakuraClockW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrSakuraClockW_Remake_0_0.png"
     },
     {
       "variant": "Pink-white",
@@ -2576,7 +2576,7 @@
       },
       "buy-price": null,
       "sell-price": 2750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSakuraClockW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrSakuraClockW_Remake_1_0.png"
     }
   ],
   "chic_cosmos_wreath": [
@@ -2626,7 +2626,7 @@
       },
       "buy-price": null,
       "sell-price": 4800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathCosmosRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathCosmosRare.png"
     }
   ],
   "chic_windflower_wreath": [
@@ -2676,7 +2676,7 @@
       },
       "buy-price": null,
       "sell-price": 4800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathAnemoneRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathAnemoneRare.png"
     }
   ],
   "coconut_wall_planter": [
@@ -2726,7 +2726,7 @@
       },
       "buy-price": null,
       "sell-price": 600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPlanterPalm"
+      "image_uri": "/images/furniture/FtrPlanterPalm.png"
     }
   ],
   "cool_hyacinth_wreath": [
@@ -2776,7 +2776,7 @@
       },
       "buy-price": null,
       "sell-price": 1440,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathHyacinthMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathHyacinthMix.png"
     }
   ],
   "cool_pansy_wreath": [
@@ -2826,7 +2826,7 @@
       },
       "buy-price": null,
       "sell-price": 4800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathPansyRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathPansyRare.png"
     }
   ],
   "cool_windflower_wreath": [
@@ -2876,7 +2876,7 @@
       },
       "buy-price": null,
       "sell-price": 1200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathAnemoneMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathAnemoneMix.png"
     }
   ],
   "corkboard": [
@@ -2926,7 +2926,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_0_0"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_0_0.png"
     },
     {
       "variant": "Natural",
@@ -2974,7 +2974,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_0_1"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_0_1.png"
     },
     {
       "variant": "Natural",
@@ -3022,7 +3022,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_0_2"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_0_2.png"
     },
     {
       "variant": "White",
@@ -3070,7 +3070,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_1_0"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_1_0.png"
     },
     {
       "variant": "White",
@@ -3118,7 +3118,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_1_1"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_1_1.png"
     },
     {
       "variant": "White",
@@ -3166,7 +3166,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_1_2"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_1_2.png"
     },
     {
       "variant": "Blue",
@@ -3214,7 +3214,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_2_0"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_2_0.png"
     },
     {
       "variant": "Blue",
@@ -3262,7 +3262,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_2_1"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_2_1.png"
     },
     {
       "variant": "Blue",
@@ -3310,7 +3310,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_2_2"
+      "image_uri": "/images/furniture/FtrCorkboard_Remake_2_2.png"
     }
   ],
   "cosmos_wreath": [
@@ -3360,7 +3360,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathCosmos"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathCosmos.png"
     }
   ],
   "crest_doorplate": [
@@ -3410,7 +3410,7 @@
       },
       "buy-price": null,
       "sell-price": 3000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentCrest_Remake_0_0.png"
     },
     {
       "variant": "Gold & silver",
@@ -3458,7 +3458,7 @@
       },
       "buy-price": null,
       "sell-price": 3000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentCrest_Remake_1_0.png"
     },
     {
       "variant": "Silver & blue",
@@ -3506,7 +3506,7 @@
       },
       "buy-price": null,
       "sell-price": 3000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentCrest_Remake_2_0.png"
     },
     {
       "variant": "Red & white",
@@ -3554,7 +3554,7 @@
       },
       "buy-price": null,
       "sell-price": 3000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentCrest_Remake_3_0.png"
     },
     {
       "variant": "Silver & green",
@@ -3602,7 +3602,7 @@
       },
       "buy-price": null,
       "sell-price": 3000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentCrest_Remake_4_0.png"
     },
     {
       "variant": "Colorful",
@@ -3650,7 +3650,7 @@
       },
       "buy-price": null,
       "sell-price": 3000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentCrest_Remake_5_0.png"
     }
   ],
   "cuckoo_clock": [
@@ -3700,7 +3700,7 @@
       },
       "buy-price": 3200,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_0_0"
+      "image_uri": "/images/furniture/FtrCuckooclock_Remake_0_0.png"
     },
     {
       "variant": "Green",
@@ -3748,7 +3748,7 @@
       },
       "buy-price": 3200,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_1_0"
+      "image_uri": "/images/furniture/FtrCuckooclock_Remake_1_0.png"
     },
     {
       "variant": "Blue",
@@ -3796,7 +3796,7 @@
       },
       "buy-price": 3200,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_2_0"
+      "image_uri": "/images/furniture/FtrCuckooclock_Remake_2_0.png"
     },
     {
       "variant": "Yellow",
@@ -3844,7 +3844,7 @@
       },
       "buy-price": 3200,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_3_0"
+      "image_uri": "/images/furniture/FtrCuckooclock_Remake_3_0.png"
     },
     {
       "variant": "Red",
@@ -3892,7 +3892,7 @@
       },
       "buy-price": 3200,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_4_0"
+      "image_uri": "/images/furniture/FtrCuckooclock_Remake_4_0.png"
     },
     {
       "variant": "White",
@@ -3940,7 +3940,7 @@
       },
       "buy-price": 3200,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_5_0"
+      "image_uri": "/images/furniture/FtrCuckooclock_Remake_5_0.png"
     },
     {
       "variant": "Black",
@@ -3988,7 +3988,7 @@
       },
       "buy-price": 3200,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_6_0"
+      "image_uri": "/images/furniture/FtrCuckooclock_Remake_6_0.png"
     }
   ],
   "cute_wall-mounted_clock": [
@@ -4038,7 +4038,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrCuteClockW_Remake_0_0.png"
     },
     {
       "variant": "Sky blue",
@@ -4086,7 +4086,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrCuteClockW_Remake_1_0.png"
     },
     {
       "variant": "Yellow",
@@ -4134,7 +4134,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_2_0"
+      "image_uri": "/images/furniture/FtrCuteClockW_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -4182,7 +4182,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_3_0"
+      "image_uri": "/images/furniture/FtrCuteClockW_Remake_3_0.png"
     },
     {
       "variant": "Blue",
@@ -4230,7 +4230,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_4_0"
+      "image_uri": "/images/furniture/FtrCuteClockW_Remake_4_0.png"
     }
   ],
   "dark_lily_wreath": [
@@ -4280,7 +4280,7 @@
       },
       "buy-price": null,
       "sell-price": 1600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathYuriRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathYuriRare.png"
     }
   ],
   "dark_rose_wreath": [
@@ -4330,7 +4330,7 @@
       },
       "buy-price": null,
       "sell-price": 4320,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathRoseRare.png"
     }
   ],
   "dark_tulip_wreath": [
@@ -4380,7 +4380,7 @@
       },
       "buy-price": null,
       "sell-price": 1600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathTulipRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathTulipRare.png"
     }
   ],
   "deer_decoration": [
@@ -4430,7 +4430,7 @@
       },
       "buy-price": null,
       "sell-price": 960,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_0_0"
+      "image_uri": "/images/furniture/FtrHuntingtrophy_Remake_0_0.png"
     },
     {
       "variant": "Ash",
@@ -4478,7 +4478,7 @@
       },
       "buy-price": null,
       "sell-price": 960,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_1_0"
+      "image_uri": "/images/furniture/FtrHuntingtrophy_Remake_1_0.png"
     },
     {
       "variant": "Ivory",
@@ -4526,7 +4526,7 @@
       },
       "buy-price": null,
       "sell-price": 960,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_2_0"
+      "image_uri": "/images/furniture/FtrHuntingtrophy_Remake_2_0.png"
     },
     {
       "variant": "White",
@@ -4574,7 +4574,7 @@
       },
       "buy-price": null,
       "sell-price": 960,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_3_0"
+      "image_uri": "/images/furniture/FtrHuntingtrophy_Remake_3_0.png"
     },
     {
       "variant": "Black",
@@ -4622,7 +4622,7 @@
       },
       "buy-price": null,
       "sell-price": 960,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_4_0"
+      "image_uri": "/images/furniture/FtrHuntingtrophy_Remake_4_0.png"
     }
   ],
   "diner_neon_clock": [
@@ -4672,7 +4672,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_0_0"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_0_0.png"
     },
     {
       "variant": "Red",
@@ -4720,7 +4720,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_0_1"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_0_1.png"
     },
     {
       "variant": "Red",
@@ -4768,7 +4768,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_0_2"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_0_2.png"
     },
     {
       "variant": "Blue",
@@ -4816,7 +4816,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_1_0"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_1_0.png"
     },
     {
       "variant": "Blue",
@@ -4864,7 +4864,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_1_1"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_1_1.png"
     },
     {
       "variant": "Blue",
@@ -4912,7 +4912,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_1_2"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_1_2.png"
     },
     {
       "variant": "Yellow",
@@ -4960,7 +4960,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_2_0"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_2_0.png"
     },
     {
       "variant": "Yellow",
@@ -5008,7 +5008,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_2_1"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_2_1.png"
     },
     {
       "variant": "Yellow",
@@ -5056,7 +5056,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_2_2"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_2_2.png"
     },
     {
       "variant": "Aquamarine",
@@ -5104,7 +5104,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_3_0"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_3_0.png"
     },
     {
       "variant": "Aquamarine",
@@ -5152,7 +5152,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_3_1"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_3_1.png"
     },
     {
       "variant": "Aquamarine",
@@ -5200,7 +5200,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_3_2"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_3_2.png"
     },
     {
       "variant": "Pink",
@@ -5248,7 +5248,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_4_0"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_4_0.png"
     },
     {
       "variant": "Pink",
@@ -5296,7 +5296,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_4_1"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_4_1.png"
     },
     {
       "variant": "Pink",
@@ -5344,7 +5344,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_4_2"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_4_2.png"
     },
     {
       "variant": "Cream",
@@ -5392,7 +5392,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_5_0"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_5_0.png"
     },
     {
       "variant": "Cream",
@@ -5440,7 +5440,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_5_1"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_5_1.png"
     },
     {
       "variant": "Cream",
@@ -5488,7 +5488,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_5_2"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_5_2.png"
     },
     {
       "variant": "Purple",
@@ -5536,7 +5536,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_6_0"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_6_0.png"
     },
     {
       "variant": "Purple",
@@ -5584,7 +5584,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_6_1"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_6_1.png"
     },
     {
       "variant": "Purple",
@@ -5632,7 +5632,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_6_2"
+      "image_uri": "/images/furniture/FtrAmeretroClock_Remake_6_2.png"
     }
   ],
   "double-sided_wall_clock": [
@@ -5682,7 +5682,7 @@
       },
       "buy-price": 1100,
       "sell-price": 275,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrBothsideclockWall_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -5730,7 +5730,7 @@
       },
       "buy-price": 1100,
       "sell-price": 275,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrBothsideclockWall_Remake_1_0.png"
     },
     {
       "variant": "Silver",
@@ -5778,7 +5778,7 @@
       },
       "buy-price": 1100,
       "sell-price": 275,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrBothsideclockWall_Remake_2_0.png"
     },
     {
       "variant": "Green",
@@ -5826,7 +5826,7 @@
       },
       "buy-price": 1100,
       "sell-price": 275,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrBothsideclockWall_Remake_3_0.png"
     },
     {
       "variant": "Red",
@@ -5874,7 +5874,7 @@
       },
       "buy-price": 1100,
       "sell-price": 275,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrBothsideclockWall_Remake_4_0.png"
     },
     {
       "variant": "Yellow",
@@ -5922,7 +5922,7 @@
       },
       "buy-price": 1100,
       "sell-price": 275,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrBothsideclockWall_Remake_5_0.png"
     }
   ],
   "exit_sign": [
@@ -5972,7 +5972,7 @@
       },
       "buy-price": 810,
       "sell-price": 202,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_0_0"
+      "image_uri": "/images/furniture/FtrExit_Remake_0_0.png"
     },
     {
       "variant": "→",
@@ -6020,7 +6020,7 @@
       },
       "buy-price": 810,
       "sell-price": 202,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_1_0"
+      "image_uri": "/images/furniture/FtrExit_Remake_1_0.png"
     },
     {
       "variant": "Red exit",
@@ -6068,7 +6068,7 @@
       },
       "buy-price": 810,
       "sell-price": 202,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_2_0"
+      "image_uri": "/images/furniture/FtrExit_Remake_2_0.png"
     },
     {
       "variant": "← →",
@@ -6116,7 +6116,7 @@
       },
       "buy-price": 810,
       "sell-price": 202,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_3_0"
+      "image_uri": "/images/furniture/FtrExit_Remake_3_0.png"
     }
   ],
   "fancy_lily_wreath": [
@@ -6166,7 +6166,7 @@
       },
       "buy-price": null,
       "sell-price": 1200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathYuriMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathYuriMix.png"
     }
   ],
   "fancy_mum_wreath": [
@@ -6216,7 +6216,7 @@
       },
       "buy-price": null,
       "sell-price": 1200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMumMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathMumMix.png"
     }
   ],
   "fancy_rose_wreath": [
@@ -6266,7 +6266,7 @@
       },
       "buy-price": null,
       "sell-price": 1200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathRoseMix.png"
     }
   ],
   "festive_wreath": [
@@ -6316,7 +6316,7 @@
       },
       "buy-price": null,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentXmasWreath"
+      "image_uri": "/images/furniture/FtrDoorOrnamentXmasWreath.png"
     }
   ],
   "fish_doorplate": [
@@ -6366,7 +6366,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_0_0.png"
     },
     {
       "variant": "Red",
@@ -6414,7 +6414,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_1_0.png"
     },
     {
       "variant": "Orange",
@@ -6462,7 +6462,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_2_0.png"
     },
     {
       "variant": "Yellow",
@@ -6510,7 +6510,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_3_0.png"
     },
     {
       "variant": "Green",
@@ -6558,7 +6558,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_4_0.png"
     },
     {
       "variant": "Blue",
@@ -6606,7 +6606,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_5_0.png"
     },
     {
       "variant": "Black",
@@ -6654,7 +6654,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_6_0.png"
     },
     {
       "variant": "Gray",
@@ -6702,7 +6702,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFish_Remake_7_0.png"
     }
   ],
   "fish_plaque": [
@@ -6752,7 +6752,7 @@
       },
       "buy-price": null,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMuseumFishWall"
+      "image_uri": "/images/furniture/FtrMuseumFishWall.png"
     }
   ],
   "fish_print": [
@@ -6802,7 +6802,7 @@
       },
       "buy-price": null,
       "sell-price": 700,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_0_0"
+      "image_uri": "/images/furniture/FtrFishprint_Remake_0_0.png"
     },
     {
       "variant": "Red snapper",
@@ -6850,7 +6850,7 @@
       },
       "buy-price": null,
       "sell-price": 700,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_1_0"
+      "image_uri": "/images/furniture/FtrFishprint_Remake_1_0.png"
     },
     {
       "variant": "Blue marlin",
@@ -6898,7 +6898,7 @@
       },
       "buy-price": null,
       "sell-price": 700,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_2_0"
+      "image_uri": "/images/furniture/FtrFishprint_Remake_2_0.png"
     },
     {
       "variant": "Squid",
@@ -6946,7 +6946,7 @@
       },
       "buy-price": null,
       "sell-price": 700,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_3_0"
+      "image_uri": "/images/furniture/FtrFishprint_Remake_3_0.png"
     },
     {
       "variant": "Black bass",
@@ -6994,7 +6994,7 @@
       },
       "buy-price": null,
       "sell-price": 700,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_4_0"
+      "image_uri": "/images/furniture/FtrFishprint_Remake_4_0.png"
     },
     {
       "variant": "Carp",
@@ -7042,7 +7042,7 @@
       },
       "buy-price": null,
       "sell-price": 700,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_5_0"
+      "image_uri": "/images/furniture/FtrFishprint_Remake_5_0.png"
     },
     {
       "variant": "Giant snakehead",
@@ -7090,7 +7090,7 @@
       },
       "buy-price": null,
       "sell-price": 700,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_6_0"
+      "image_uri": "/images/furniture/FtrFishprint_Remake_6_0.png"
     }
   ],
   "fishing-boat_flag": [
@@ -7140,7 +7140,7 @@
       },
       "buy-price": 2200,
       "sell-price": 550,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_0_0"
+      "image_uri": "/images/furniture/FtrBigcatchflag_Remake_0_0.png"
     },
     {
       "variant": "Tsurukamemaru - Longevity",
@@ -7188,7 +7188,7 @@
       },
       "buy-price": 2200,
       "sell-price": 550,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_1_0"
+      "image_uri": "/images/furniture/FtrBigcatchflag_Remake_1_0.png"
     },
     {
       "variant": "Marufukumaru - Bounty",
@@ -7236,7 +7236,7 @@
       },
       "buy-price": 2200,
       "sell-price": 550,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_2_0"
+      "image_uri": "/images/furniture/FtrBigcatchflag_Remake_2_0.png"
     },
     {
       "variant": "Uomasamaru III - Launch",
@@ -7284,7 +7284,7 @@
       },
       "buy-price": 2200,
       "sell-price": 550,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_3_0"
+      "image_uri": "/images/furniture/FtrBigcatchflag_Remake_3_0.png"
     }
   ],
   "floral_swag": [
@@ -7334,7 +7334,7 @@
       },
       "buy-price": null,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_0_0"
+      "image_uri": "/images/furniture/FtrFlowerSwag_Remake_0_0.png"
     },
     {
       "variant": "Pink",
@@ -7382,7 +7382,7 @@
       },
       "buy-price": null,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_1_0"
+      "image_uri": "/images/furniture/FtrFlowerSwag_Remake_1_0.png"
     },
     {
       "variant": "Blue",
@@ -7430,7 +7430,7 @@
       },
       "buy-price": null,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_2_0"
+      "image_uri": "/images/furniture/FtrFlowerSwag_Remake_2_0.png"
     },
     {
       "variant": "White",
@@ -7478,7 +7478,7 @@
       },
       "buy-price": null,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_3_0"
+      "image_uri": "/images/furniture/FtrFlowerSwag_Remake_3_0.png"
     },
     {
       "variant": "Colorful",
@@ -7526,7 +7526,7 @@
       },
       "buy-price": null,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_4_0"
+      "image_uri": "/images/furniture/FtrFlowerSwag_Remake_4_0.png"
     }
   ],
   "formal_paper": [
@@ -7576,7 +7576,7 @@
       },
       "buy-price": 620,
       "sell-price": 155,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTestimonial_Remake_0_0"
+      "image_uri": "/images/furniture/FtrTestimonial_Remake_0_0.png"
     },
     {
       "variant": "Light brown",
@@ -7624,7 +7624,7 @@
       },
       "buy-price": 620,
       "sell-price": 155,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTestimonial_Remake_1_0"
+      "image_uri": "/images/furniture/FtrTestimonial_Remake_1_0.png"
     },
     {
       "variant": "Dark brown",
@@ -7672,7 +7672,7 @@
       },
       "buy-price": 620,
       "sell-price": 155,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTestimonial_Remake_2_0"
+      "image_uri": "/images/furniture/FtrTestimonial_Remake_2_0.png"
     }
   ],
   "fossil_doorplate": [
@@ -7722,7 +7722,7 @@
       },
       "buy-price": null,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFossil_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFossil_Remake_0_0.png"
     },
     {
       "variant": "Blue",
@@ -7770,7 +7770,7 @@
       },
       "buy-price": null,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFossil_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentFossil_Remake_1_0.png"
     }
   ],
   "fossil_plaque": [
@@ -7820,7 +7820,7 @@
       },
       "buy-price": null,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMuseumFossilWall"
+      "image_uri": "/images/furniture/FtrMuseumFossilWall.png"
     }
   ],
   "fruit_wreath": [
@@ -7870,7 +7870,7 @@
       },
       "buy-price": null,
       "sell-price": 2000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathFruit"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathFruit.png"
     }
   ],
   "gears": [
@@ -7920,7 +7920,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrGearWall_Remake_0_0.png"
     },
     {
       "variant": "Copper",
@@ -7968,7 +7968,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrGearWall_Remake_1_0.png"
     },
     {
       "variant": "Black",
@@ -8016,7 +8016,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrGearWall_Remake_2_0.png"
     },
     {
       "variant": "Colorful",
@@ -8064,7 +8064,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrGearWall_Remake_3_0.png"
     },
     {
       "variant": "Wooden",
@@ -8112,7 +8112,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrGearWall_Remake_4_0.png"
     }
   ],
   "gold_HHA_plaque": [
@@ -8162,7 +8162,7 @@
       },
       "buy-price": null,
       "sell-price": 450,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShieldHhaGold"
+      "image_uri": "/images/furniture/FtrShieldHhaGold.png"
     }
   ],
   "gold_rose_wreath": [
@@ -8212,7 +8212,7 @@
       },
       "buy-price": null,
       "sell-price": 20000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseGold"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathRoseGold.png"
     }
   ],
   "golden_gears": [
@@ -8262,7 +8262,7 @@
       },
       "buy-price": null,
       "sell-price": 11125,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWallGold"
+      "image_uri": "/images/furniture/FtrGearWallGold.png"
     }
   ],
   "grasshopper-head_model": [
@@ -8312,7 +8312,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrInsectTonosamabattaFace"
+      "image_uri": "/images/furniture/FtrInsectTonosamabattaFace.png"
     }
   ],
   "hanging_scroll": [
@@ -8362,7 +8362,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_0"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_0_0.png"
     },
     {
       "variant": "Green",
@@ -8410,7 +8410,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_1"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_0_1.png"
     },
     {
       "variant": "Green",
@@ -8458,7 +8458,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_2"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_0_2.png"
     },
     {
       "variant": "Green",
@@ -8506,7 +8506,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_3"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_0_3.png"
     },
     {
       "variant": "Green",
@@ -8554,7 +8554,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_4"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_0_4.png"
     },
     {
       "variant": "Brown",
@@ -8602,7 +8602,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_0"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_1_0.png"
     },
     {
       "variant": "Brown",
@@ -8650,7 +8650,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_1"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_1_1.png"
     },
     {
       "variant": "Brown",
@@ -8698,7 +8698,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_2"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_1_2.png"
     },
     {
       "variant": "Brown",
@@ -8746,7 +8746,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_3"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_1_3.png"
     },
     {
       "variant": "Brown",
@@ -8794,7 +8794,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_4"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_1_4.png"
     },
     {
       "variant": "Pink",
@@ -8842,7 +8842,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_0"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_2_0.png"
     },
     {
       "variant": "Pink",
@@ -8890,7 +8890,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_1"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_2_1.png"
     },
     {
       "variant": "Pink",
@@ -8938,7 +8938,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_2"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_2_2.png"
     },
     {
       "variant": "Pink",
@@ -8986,7 +8986,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_3"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_2_3.png"
     },
     {
       "variant": "Pink",
@@ -9034,7 +9034,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_4"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_2_4.png"
     },
     {
       "variant": "Blue",
@@ -9082,7 +9082,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_0"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_3_0.png"
     },
     {
       "variant": "Blue",
@@ -9130,7 +9130,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_1"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_3_1.png"
     },
     {
       "variant": "Blue",
@@ -9178,7 +9178,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_2"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_3_2.png"
     },
     {
       "variant": "Blue",
@@ -9226,7 +9226,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_3"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_3_3.png"
     },
     {
       "variant": "Blue",
@@ -9274,7 +9274,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_4"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_3_4.png"
     },
     {
       "variant": "Purple",
@@ -9322,7 +9322,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_0"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_4_0.png"
     },
     {
       "variant": "Purple",
@@ -9370,7 +9370,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_1"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_4_1.png"
     },
     {
       "variant": "Purple",
@@ -9418,7 +9418,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_2"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_4_2.png"
     },
     {
       "variant": "Purple",
@@ -9466,7 +9466,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_3"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_4_3.png"
     },
     {
       "variant": "Purple",
@@ -9514,7 +9514,7 @@
       },
       "buy-price": 140000,
       "sell-price": 35000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_4"
+      "image_uri": "/images/furniture/FtrHangingscroll_Remake_4_4.png"
     }
   ],
   "hanging_terrarium": [
@@ -9564,7 +9564,7 @@
       },
       "buy-price": null,
       "sell-price": 3240,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTerrariumWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrTerrariumWall_Remake_0_0.png"
     },
     {
       "variant": "Gold",
@@ -9612,7 +9612,7 @@
       },
       "buy-price": null,
       "sell-price": 3240,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTerrariumWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrTerrariumWall_Remake_1_0.png"
     },
     {
       "variant": "Brown",
@@ -9660,7 +9660,7 @@
       },
       "buy-price": null,
       "sell-price": 3240,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTerrariumWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrTerrariumWall_Remake_2_0.png"
     }
   ],
   "heart_doorplate": [
@@ -9710,7 +9710,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_0_0.png"
     },
     {
       "variant": "Blue",
@@ -9758,7 +9758,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_1_0.png"
     },
     {
       "variant": "Monotone",
@@ -9806,7 +9806,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_2_0.png"
     },
     {
       "variant": "Light blue",
@@ -9854,7 +9854,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_3_0.png"
     },
     {
       "variant": "Green",
@@ -9902,7 +9902,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_4_0.png"
     },
     {
       "variant": "Orange",
@@ -9950,7 +9950,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_5_0.png"
     },
     {
       "variant": "Red",
@@ -9998,7 +9998,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_6_0.png"
     },
     {
       "variant": "Purple",
@@ -10046,7 +10046,7 @@
       },
       "buy-price": 600,
       "sell-price": 150,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateHeart_Remake_7_0.png"
     }
   ],
   "HHA_pennant": [
@@ -10096,7 +10096,7 @@
       },
       "buy-price": null,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPenantHha"
+      "image_uri": "/images/furniture/FtrPenantHha.png"
     }
   ],
   "hyacinth_wreath": [
@@ -10146,7 +10146,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathHyacinth"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathHyacinth.png"
     }
   ],
   "imperial_decorative_shelves": [
@@ -10196,7 +10196,7 @@
       },
       "buy-price": 8500,
       "sell-price": 2125,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrOrientalShelfWall_Remake_0_0.png"
     },
     {
       "variant": "Blue",
@@ -10244,7 +10244,7 @@
       },
       "buy-price": 8500,
       "sell-price": 2125,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrOrientalShelfWall_Remake_1_0.png"
     },
     {
       "variant": "Brown",
@@ -10292,7 +10292,7 @@
       },
       "buy-price": 8500,
       "sell-price": 2125,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrOrientalShelfWall_Remake_2_0.png"
     },
     {
       "variant": "Black",
@@ -10340,7 +10340,7 @@
       },
       "buy-price": 8500,
       "sell-price": 2125,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrOrientalShelfWall_Remake_3_0.png"
     }
   ],
   "imperial_dining_lantern": [
@@ -10390,7 +10390,7 @@
       },
       "buy-price": 19000,
       "sell-price": 4750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrChineseLampWall_Remake_0_0.png"
     },
     {
       "variant": "Black",
@@ -10438,7 +10438,7 @@
       },
       "buy-price": 19000,
       "sell-price": 4750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrChineseLampWall_Remake_1_0.png"
     },
     {
       "variant": "Blue",
@@ -10486,7 +10486,7 @@
       },
       "buy-price": 19000,
       "sell-price": 4750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrChineseLampWall_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -10534,7 +10534,7 @@
       },
       "buy-price": 19000,
       "sell-price": 4750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrChineseLampWall_Remake_3_0.png"
     }
   ],
   "intercom_monitor": [
@@ -10584,7 +10584,7 @@
       },
       "buy-price": 860,
       "sell-price": 215,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIntercom"
+      "image_uri": "/images/furniture/FtrIntercom.png"
     }
   ],
   "iron_doorplate": [
@@ -10634,7 +10634,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -10682,7 +10682,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_1_0.png"
     },
     {
       "variant": "Blue",
@@ -10730,7 +10730,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_2_0.png"
     },
     {
       "variant": "Silver",
@@ -10778,7 +10778,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_3_0.png"
     },
     {
       "variant": "Ash brown",
@@ -10826,7 +10826,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_4_0.png"
     },
     {
       "variant": "Gold",
@@ -10874,7 +10874,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_5_0.png"
     },
     {
       "variant": "Pink",
@@ -10922,7 +10922,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_6_0.png"
     },
     {
       "variant": "Brown",
@@ -10970,7 +10970,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentIron_Remake_7_0.png"
     }
   ],
   "iron_wall_lamp": [
@@ -11020,7 +11020,7 @@
       },
       "buy-price": null,
       "sell-price": 3400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronLampW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrIronLampW_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -11068,7 +11068,7 @@
       },
       "buy-price": null,
       "sell-price": 3400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronLampW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrIronLampW_Remake_1_0.png"
     }
   ],
   "iron_wall_rack": [
@@ -11118,7 +11118,7 @@
       },
       "buy-price": null,
       "sell-price": 2450,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronShelfW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrIronShelfW_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -11166,7 +11166,7 @@
       },
       "buy-price": null,
       "sell-price": 2450,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronShelfW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrIronShelfW_Remake_1_0.png"
     }
   ],
   "ironwood_clock": [
@@ -11216,7 +11216,7 @@
       },
       "buy-price": null,
       "sell-price": 1740,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrIronwoodClockW_Remake_0_0.png"
     },
     {
       "variant": "Teak",
@@ -11264,7 +11264,7 @@
       },
       "buy-price": null,
       "sell-price": 1740,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrIronwoodClockW_Remake_1_0.png"
     },
     {
       "variant": "Walnut",
@@ -11312,7 +11312,7 @@
       },
       "buy-price": null,
       "sell-price": 1740,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_2_0"
+      "image_uri": "/images/furniture/FtrIronwoodClockW_Remake_2_0.png"
     },
     {
       "variant": "Old",
@@ -11360,7 +11360,7 @@
       },
       "buy-price": null,
       "sell-price": 1740,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_3_0"
+      "image_uri": "/images/furniture/FtrIronwoodClockW_Remake_3_0.png"
     },
     {
       "variant": "Oak",
@@ -11408,7 +11408,7 @@
       },
       "buy-price": null,
       "sell-price": 1740,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_4_0"
+      "image_uri": "/images/furniture/FtrIronwoodClockW_Remake_4_0.png"
     }
   ],
   "Jack's_portrait": [
@@ -11458,7 +11458,7 @@
       },
       "buy-price": null,
       "sell-price": 2000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHwnPortraitWall"
+      "image_uri": "/images/furniture/FtrHwnPortraitWall.png"
     }
   ],
   "key_holder": [
@@ -11508,7 +11508,7 @@
       },
       "buy-price": null,
       "sell-price": 1110,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_0_0"
+      "image_uri": "/images/furniture/FtrKeyhanger_Remake_0_0.png"
     },
     {
       "variant": "Brown wood",
@@ -11556,7 +11556,7 @@
       },
       "buy-price": null,
       "sell-price": 1110,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_1_0"
+      "image_uri": "/images/furniture/FtrKeyhanger_Remake_1_0.png"
     },
     {
       "variant": "White",
@@ -11604,7 +11604,7 @@
       },
       "buy-price": null,
       "sell-price": 1110,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_2_0"
+      "image_uri": "/images/furniture/FtrKeyhanger_Remake_2_0.png"
     },
     {
       "variant": "Black",
@@ -11652,7 +11652,7 @@
       },
       "buy-price": null,
       "sell-price": 1110,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_3_0"
+      "image_uri": "/images/furniture/FtrKeyhanger_Remake_3_0.png"
     }
   ],
   "Leo_sculpture": [
@@ -11702,7 +11702,7 @@
       },
       "buy-price": null,
       "sell-price": 21975,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrZodiacLeo"
+      "image_uri": "/images/furniture/FtrZodiacLeo.png"
     }
   ],
   "light_switch": [
@@ -11752,7 +11752,7 @@
       },
       "buy-price": 340,
       "sell-price": 85,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrSwitchWall_Remake_0_0.png"
     },
     {
       "variant": "Brown",
@@ -11800,7 +11800,7 @@
       },
       "buy-price": 340,
       "sell-price": 85,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrSwitchWall_Remake_1_0.png"
     },
     {
       "variant": "White",
@@ -11848,7 +11848,7 @@
       },
       "buy-price": 340,
       "sell-price": 85,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrSwitchWall_Remake_2_0.png"
     },
     {
       "variant": "Wood grain",
@@ -11896,7 +11896,7 @@
       },
       "buy-price": 340,
       "sell-price": 85,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrSwitchWall_Remake_3_0.png"
     }
   ],
   "lily_wreath": [
@@ -11946,7 +11946,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathYuri"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathYuri.png"
     }
   ],
   "log_wall-mounted_clock": [
@@ -11996,7 +11996,7 @@
       },
       "buy-price": null,
       "sell-price": 990,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrLogClockWall_Remake_0_0.png"
     },
     {
       "variant": "Orange wood",
@@ -12044,7 +12044,7 @@
       },
       "buy-price": null,
       "sell-price": 990,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrLogClockWall_Remake_1_0.png"
     },
     {
       "variant": "White wood",
@@ -12092,7 +12092,7 @@
       },
       "buy-price": null,
       "sell-price": 990,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrLogClockWall_Remake_2_0.png"
     },
     {
       "variant": "White birch",
@@ -12140,7 +12140,7 @@
       },
       "buy-price": null,
       "sell-price": 990,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrLogClockWall_Remake_3_0.png"
     }
   ],
   "Lunar_New_Year_decoration": [
@@ -12190,7 +12190,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentShunsetsu"
+      "image_uri": "/images/furniture/FtrDoorOrnamentShunsetsu.png"
     }
   ],
   "macrame_tapestry": [
@@ -12240,7 +12240,7 @@
       },
       "buy-price": 840,
       "sell-price": 210,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_0_0"
+      "image_uri": "/images/furniture/FtrMacrametapestry_Remake_0_0.png"
     },
     {
       "variant": "Green",
@@ -12288,7 +12288,7 @@
       },
       "buy-price": 840,
       "sell-price": 210,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_1_0"
+      "image_uri": "/images/furniture/FtrMacrametapestry_Remake_1_0.png"
     },
     {
       "variant": "Pink",
@@ -12336,7 +12336,7 @@
       },
       "buy-price": 840,
       "sell-price": 210,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_2_0"
+      "image_uri": "/images/furniture/FtrMacrametapestry_Remake_2_0.png"
     },
     {
       "variant": "Blue",
@@ -12384,7 +12384,7 @@
       },
       "buy-price": 840,
       "sell-price": 210,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_3_0"
+      "image_uri": "/images/furniture/FtrMacrametapestry_Remake_3_0.png"
     }
   ],
   "magnetic_knife_rack": [
@@ -12434,7 +12434,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKniferackWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrKniferackWall_Remake_0_0.png"
     },
     {
       "variant": "Wooden",
@@ -12482,7 +12482,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKniferackWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrKniferackWall_Remake_1_0.png"
     },
     {
       "variant": "Pop",
@@ -12530,7 +12530,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKniferackWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrKniferackWall_Remake_2_0.png"
     }
   ],
   "mantis-head_model": [
@@ -12580,7 +12580,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrInsectKamakiriFace"
+      "image_uri": "/images/furniture/FtrInsectKamakiriFace.png"
     }
   ],
   "mermaid_wall_clock": [
@@ -12630,7 +12630,7 @@
       },
       "buy-price": null,
       "sell-price": 12290,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMermaidclockWall"
+      "image_uri": "/images/furniture/FtrMermaidclockWall.png"
     }
   ],
   "mobile": [
@@ -12680,7 +12680,7 @@
       },
       "buy-price": 780,
       "sell-price": 195,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_0_0"
+      "image_uri": "/images/furniture/FtrMobile_Remake_0_0.png"
     },
     {
       "variant": "Sheep",
@@ -12728,7 +12728,7 @@
       },
       "buy-price": 780,
       "sell-price": 195,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_1_0"
+      "image_uri": "/images/furniture/FtrMobile_Remake_1_0.png"
     },
     {
       "variant": "Ocean creatures",
@@ -12776,7 +12776,7 @@
       },
       "buy-price": 780,
       "sell-price": 195,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_2_0"
+      "image_uri": "/images/furniture/FtrMobile_Remake_2_0.png"
     },
     {
       "variant": "Space",
@@ -12824,7 +12824,7 @@
       },
       "buy-price": 780,
       "sell-price": 195,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_3_0"
+      "image_uri": "/images/furniture/FtrMobile_Remake_3_0.png"
     },
     {
       "variant": "Gorgeous",
@@ -12872,7 +12872,7 @@
       },
       "buy-price": 780,
       "sell-price": 195,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_4_0"
+      "image_uri": "/images/furniture/FtrMobile_Remake_4_0.png"
     }
   ],
   "Mom's_art": [
@@ -12922,7 +12922,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_0_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_0_0.png"
     },
     {
       "variant": "Street with Trees",
@@ -12970,7 +12970,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_1_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_1_0.png"
     },
     {
       "variant": "Nostalgia",
@@ -13018,7 +13018,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_2_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_2_0.png"
     },
     {
       "variant": "Angel",
@@ -13066,7 +13066,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_3_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_3_0.png"
     },
     {
       "variant": "Sweet Roses",
@@ -13114,7 +13114,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_4_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_4_0.png"
     },
     {
       "variant": "Field of Flowers",
@@ -13162,7 +13162,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_5_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_5_0.png"
     },
     {
       "variant": "Dog",
@@ -13210,7 +13210,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_6_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_6_0.png"
     },
     {
       "variant": "Blooming",
@@ -13258,7 +13258,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_7_0"
+      "image_uri": "/images/furniture/FtrMomArt_Remake_7_0.png"
     }
   ],
   "Mom's_embroidery": [
@@ -13308,7 +13308,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_0_0"
+      "image_uri": "/images/furniture/FtrMomEmbroidery_Remake_0_0.png"
     },
     {
       "variant": "Bird",
@@ -13356,7 +13356,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_1_0"
+      "image_uri": "/images/furniture/FtrMomEmbroidery_Remake_1_0.png"
     },
     {
       "variant": "Bouquet",
@@ -13404,7 +13404,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_2_0"
+      "image_uri": "/images/furniture/FtrMomEmbroidery_Remake_2_0.png"
     },
     {
       "variant": "Girl",
@@ -13452,7 +13452,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_3_0"
+      "image_uri": "/images/furniture/FtrMomEmbroidery_Remake_3_0.png"
     },
     {
       "variant": "Fairy tale",
@@ -13500,7 +13500,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_4_0"
+      "image_uri": "/images/furniture/FtrMomEmbroidery_Remake_4_0.png"
     },
     {
       "variant": "Trees",
@@ -13548,7 +13548,7 @@
       },
       "buy-price": null,
       "sell-price": 88,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_5_0"
+      "image_uri": "/images/furniture/FtrMomEmbroidery_Remake_5_0.png"
     }
   ],
   "mounted_black_bass": [
@@ -13598,7 +13598,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishBlackbassWall"
+      "image_uri": "/images/furniture/FtrFishBlackbassWall.png"
     }
   ],
   "mounted_blue_marlin": [
@@ -13648,7 +13648,7 @@
       },
       "buy-price": 5000,
       "sell-price": 1250,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishKajikiWall"
+      "image_uri": "/images/furniture/FtrFishKajikiWall.png"
     }
   ],
   "mum_wreath": [
@@ -13698,7 +13698,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMum"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathMum.png"
     }
   ],
   "mushroom_wreath": [
@@ -13748,7 +13748,7 @@
       },
       "buy-price": null,
       "sell-price": 1500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMushroom"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathMushroom.png"
     }
   ],
   "natural_mum_wreath": [
@@ -13798,7 +13798,7 @@
       },
       "buy-price": null,
       "sell-price": 4800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMumRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathMumRare.png"
     }
   ],
   "New_Year's_shimekazari": [
@@ -13848,7 +13848,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathShimenawa"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathShimenawa.png"
     }
   ],
   "orange_wall-mounted_clock": [
@@ -13898,7 +13898,7 @@
       },
       "buy-price": null,
       "sell-price": 2240,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsClockW_Remake_0_0"
+      "image_uri": "/images/furniture/FtrFruitsClockW_Remake_0_0.png"
     },
     {
       "variant": "Blood orange",
@@ -13946,7 +13946,7 @@
       },
       "buy-price": null,
       "sell-price": 2240,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsClockW_Remake_1_0"
+      "image_uri": "/images/furniture/FtrFruitsClockW_Remake_1_0.png"
     }
   ],
   "ornament_mobile": [
@@ -13996,7 +13996,7 @@
       },
       "buy-price": null,
       "sell-price": 340,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_0_0"
+      "image_uri": "/images/furniture/FtrOrnamentMobile_Remake_0_0.png"
     },
     {
       "variant": "Blue",
@@ -14044,7 +14044,7 @@
       },
       "buy-price": null,
       "sell-price": 340,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_1_0"
+      "image_uri": "/images/furniture/FtrOrnamentMobile_Remake_1_0.png"
     },
     {
       "variant": "Red",
@@ -14092,7 +14092,7 @@
       },
       "buy-price": null,
       "sell-price": 340,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_2_0"
+      "image_uri": "/images/furniture/FtrOrnamentMobile_Remake_2_0.png"
     },
     {
       "variant": "Pink",
@@ -14140,7 +14140,7 @@
       },
       "buy-price": null,
       "sell-price": 340,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_3_0"
+      "image_uri": "/images/furniture/FtrOrnamentMobile_Remake_3_0.png"
     },
     {
       "variant": "Gold",
@@ -14188,7 +14188,7 @@
       },
       "buy-price": null,
       "sell-price": 340,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_4_0"
+      "image_uri": "/images/furniture/FtrOrnamentMobile_Remake_4_0.png"
     },
     {
       "variant": "White",
@@ -14236,7 +14236,7 @@
       },
       "buy-price": null,
       "sell-price": 340,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_5_0"
+      "image_uri": "/images/furniture/FtrOrnamentMobile_Remake_5_0.png"
     }
   ],
   "ornament_wreath": [
@@ -14286,7 +14286,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_0_0.png"
     },
     {
       "variant": "Gold",
@@ -14334,7 +14334,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_1_0.png"
     },
     {
       "variant": "Silver",
@@ -14382,7 +14382,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_2_0.png"
     },
     {
       "variant": "Green",
@@ -14430,7 +14430,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_3_0.png"
     },
     {
       "variant": "Red",
@@ -14478,7 +14478,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_4_0.png"
     },
     {
       "variant": "Light green",
@@ -14526,7 +14526,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_5_0.png"
     },
     {
       "variant": "Pink",
@@ -14574,7 +14574,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_6_0.png"
     },
     {
       "variant": "Purple",
@@ -14622,7 +14622,7 @@
       },
       "buy-price": null,
       "sell-price": 800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_7_0.png"
     }
   ],
   "pansy_wreath": [
@@ -14672,7 +14672,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathPansy"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathPansy.png"
     }
   ],
   "party_garland": [
@@ -14722,7 +14722,7 @@
       },
       "buy-price": 650,
       "sell-price": 162,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrPartydecorationWall_Remake_0_0.png"
     },
     {
       "variant": "Pastel",
@@ -14770,7 +14770,7 @@
       },
       "buy-price": 650,
       "sell-price": 162,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrPartydecorationWall_Remake_1_0.png"
     },
     {
       "variant": "Boating stripes",
@@ -14818,7 +14818,7 @@
       },
       "buy-price": 650,
       "sell-price": 162,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrPartydecorationWall_Remake_2_0.png"
     },
     {
       "variant": "Orange & black",
@@ -14866,7 +14866,7 @@
       },
       "buy-price": 650,
       "sell-price": 162,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrPartydecorationWall_Remake_3_0.png"
     },
     {
       "variant": "Pop",
@@ -14914,7 +14914,7 @@
       },
       "buy-price": 650,
       "sell-price": 162,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrPartydecorationWall_Remake_4_0.png"
     },
     {
       "variant": "Gorgeous",
@@ -14962,7 +14962,7 @@
       },
       "buy-price": 650,
       "sell-price": 162,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrPartydecorationWall_Remake_5_0.png"
     }
   ],
   "paw-print_doorplate": [
@@ -15012,7 +15012,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_0_0.png"
     },
     {
       "variant": "Light blue",
@@ -15060,7 +15060,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_1_0.png"
     },
     {
       "variant": "Dark gray",
@@ -15108,7 +15108,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_2_0.png"
     },
     {
       "variant": "Natural wood",
@@ -15156,7 +15156,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_3_0.png"
     },
     {
       "variant": "Dark brown",
@@ -15204,7 +15204,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_4_0.png"
     },
     {
       "variant": "White",
@@ -15252,7 +15252,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_5_0.png"
     },
     {
       "variant": "Blue",
@@ -15300,7 +15300,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_6_0.png"
     },
     {
       "variant": "Pink",
@@ -15348,7 +15348,7 @@
       },
       "buy-price": null,
       "sell-price": 360,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPaw_Remake_7_0.png"
     }
   ],
   "pendulum_clock": [
@@ -15398,7 +15398,7 @@
       },
       "buy-price": 1900,
       "sell-price": 475,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrClockPendulumWall"
+      "image_uri": "/images/furniture/FtrClockPendulumWall.png"
     }
   ],
   "pennant": [
@@ -15448,7 +15448,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_0_0"
+      "image_uri": "/images/furniture/FtrPennant_Remake_0_0.png"
     },
     {
       "variant": "University",
@@ -15496,7 +15496,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_1_0"
+      "image_uri": "/images/furniture/FtrPennant_Remake_1_0.png"
     },
     {
       "variant": "Classic",
@@ -15544,7 +15544,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_2_0"
+      "image_uri": "/images/furniture/FtrPennant_Remake_2_0.png"
     },
     {
       "variant": "Sponsor",
@@ -15592,7 +15592,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_3_0"
+      "image_uri": "/images/furniture/FtrPennant_Remake_3_0.png"
     },
     {
       "variant": "Souvenir",
@@ -15640,7 +15640,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_4_0"
+      "image_uri": "/images/furniture/FtrPennant_Remake_4_0.png"
     }
   ],
   "pot_rack": [
@@ -15690,7 +15690,7 @@
       },
       "buy-price": 3000,
       "sell-price": 750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPotrack_Remake_0_0"
+      "image_uri": "/images/furniture/FtrPotrack_Remake_0_0.png"
     },
     {
       "variant": "Stainless steel",
@@ -15738,7 +15738,7 @@
       },
       "buy-price": 3000,
       "sell-price": 750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPotrack_Remake_1_0"
+      "image_uri": "/images/furniture/FtrPotrack_Remake_1_0.png"
     },
     {
       "variant": "Pop",
@@ -15786,7 +15786,7 @@
       },
       "buy-price": 3000,
       "sell-price": 750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPotrack_Remake_2_0"
+      "image_uri": "/images/furniture/FtrPotrack_Remake_2_0.png"
     }
   ],
   "potted_ivy": [
@@ -15836,7 +15836,7 @@
       },
       "buy-price": null,
       "sell-price": 1100,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrLeafWall_Remake_0_0.png"
     },
     {
       "variant": "Yellow",
@@ -15884,7 +15884,7 @@
       },
       "buy-price": null,
       "sell-price": 1100,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrLeafWall_Remake_1_0.png"
     },
     {
       "variant": "Red",
@@ -15932,7 +15932,7 @@
       },
       "buy-price": null,
       "sell-price": 1100,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrLeafWall_Remake_2_0.png"
     },
     {
       "variant": "Green",
@@ -15980,7 +15980,7 @@
       },
       "buy-price": null,
       "sell-price": 1100,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrLeafWall_Remake_3_0.png"
     }
   ],
   "pretty_cosmos_wreath": [
@@ -16030,7 +16030,7 @@
       },
       "buy-price": null,
       "sell-price": 1200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathCosmosMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathCosmosMix.png"
     }
   ],
   "pretty_tulip_wreath": [
@@ -16080,7 +16080,7 @@
       },
       "buy-price": null,
       "sell-price": 2400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathTulipMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathTulipMix.png"
     }
   ],
   "purple_hyacinth_wreath": [
@@ -16130,7 +16130,7 @@
       },
       "buy-price": null,
       "sell-price": 4800,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathHyacinthRare"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathHyacinthRare.png"
     }
   ],
   "retro_radiator": [
@@ -16180,7 +16180,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCentralheating"
+      "image_uri": "/images/furniture/FtrCentralheating.png"
     }
   ],
   "rose_wreath": [
@@ -16230,7 +16230,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRose"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathRose.png"
     }
   ],
   "Sagittarius_arrow": [
@@ -16280,7 +16280,7 @@
       },
       "buy-price": null,
       "sell-price": 21750,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrZodiacSagittarius"
+      "image_uri": "/images/furniture/FtrZodiacSagittarius.png"
     }
   ],
   "set_of_stockings": [
@@ -16330,7 +16330,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCrsSocksWallColor_Remake_0_0"
+      "image_uri": "/images/furniture/FtrCrsSocksWallColor_Remake_0_0.png"
     },
     {
       "variant": "Cute",
@@ -16378,7 +16378,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCrsSocksWallColor_Remake_1_0"
+      "image_uri": "/images/furniture/FtrCrsSocksWallColor_Remake_1_0.png"
     },
     {
       "variant": "Cool",
@@ -16426,7 +16426,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCrsSocksWallColor_Remake_2_0"
+      "image_uri": "/images/furniture/FtrCrsSocksWallColor_Remake_2_0.png"
     },
     {
       "variant": "Chic",
@@ -16474,7 +16474,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCrsSocksWallColor_Remake_3_0"
+      "image_uri": "/images/furniture/FtrCrsSocksWallColor_Remake_3_0.png"
     },
     {
       "variant": "Elegant",
@@ -16522,7 +16522,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCrsSocksWallColor_Remake_4_0"
+      "image_uri": "/images/furniture/FtrCrsSocksWallColor_Remake_4_0.png"
     },
     {
       "variant": "Natural",
@@ -16570,7 +16570,7 @@
       },
       "buy-price": 2000,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCrsSocksWallColor_Remake_5_0"
+      "image_uri": "/images/furniture/FtrCrsSocksWallColor_Remake_5_0.png"
     }
   ],
   "shell_wreath": [
@@ -16620,7 +16620,7 @@
       },
       "buy-price": null,
       "sell-price": 4720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathShell"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathShell.png"
     }
   ],
   "shower_set": [
@@ -16670,7 +16670,7 @@
       },
       "buy-price": 1800,
       "sell-price": 450,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrShowerWall_Remake_0_0.png"
     },
     {
       "variant": "Gold",
@@ -16718,7 +16718,7 @@
       },
       "buy-price": 1800,
       "sell-price": 450,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrShowerWall_Remake_1_0.png"
     },
     {
       "variant": "Copper",
@@ -16766,7 +16766,7 @@
       },
       "buy-price": 1800,
       "sell-price": 450,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrShowerWall_Remake_2_0.png"
     },
     {
       "variant": "Black",
@@ -16814,7 +16814,7 @@
       },
       "buy-price": 1800,
       "sell-price": 450,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrShowerWall_Remake_3_0.png"
     }
   ],
   "silver_HHA_plaque": [
@@ -16864,7 +16864,7 @@
       },
       "buy-price": null,
       "sell-price": 425,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShieldHhaSilver"
+      "image_uri": "/images/furniture/FtrShieldHhaSilver.png"
     }
   ],
   "skull_doorplate": [
@@ -16914,7 +16914,7 @@
       },
       "buy-price": 540,
       "sell-price": 135,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateSkull_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorPlateSkull_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -16962,7 +16962,7 @@
       },
       "buy-price": 540,
       "sell-price": 135,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateSkull_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorPlateSkull_Remake_1_0.png"
     }
   ],
   "snazzy_pansy_wreath": [
@@ -17012,7 +17012,7 @@
       },
       "buy-price": null,
       "sell-price": 1200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathPansyMix"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathPansyMix.png"
     }
   ],
   "snowflake_wreath": [
@@ -17062,7 +17062,7 @@
       },
       "buy-price": null,
       "sell-price": 1600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathIce"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathIce.png"
     }
   ],
   "spider_doorplate": [
@@ -17112,7 +17112,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_0_0.png"
     },
     {
       "variant": "Yellow",
@@ -17160,7 +17160,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_1_0.png"
     },
     {
       "variant": "Green",
@@ -17208,7 +17208,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_2_0.png"
     },
     {
       "variant": "Pink",
@@ -17256,7 +17256,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_3_0.png"
     },
     {
       "variant": "Purple",
@@ -17304,7 +17304,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_4_0.png"
     },
     {
       "variant": "Red",
@@ -17352,7 +17352,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_5_0.png"
     },
     {
       "variant": "Gray",
@@ -17400,7 +17400,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_6_0.png"
     },
     {
       "variant": "Blue",
@@ -17448,7 +17448,7 @@
       },
       "buy-price": null,
       "sell-price": 90,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentPlateInsect_Remake_7_0.png"
     }
   ],
   "spider_web": [
@@ -17498,7 +17498,7 @@
       },
       "buy-price": null,
       "sell-price": 25,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSpiderweb"
+      "image_uri": "/images/furniture/FtrSpiderweb.png"
     }
   ],
   "spooky_garland": [
@@ -17548,7 +17548,7 @@
       },
       "buy-price": null,
       "sell-price": 1650,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHwnDecorationWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrHwnDecorationWall_Remake_0_0.png"
     },
     {
       "variant": "Yellow",
@@ -17596,7 +17596,7 @@
       },
       "buy-price": null,
       "sell-price": 1650,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHwnDecorationWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrHwnDecorationWall_Remake_1_0.png"
     },
     {
       "variant": "Green",
@@ -17644,7 +17644,7 @@
       },
       "buy-price": null,
       "sell-price": 1650,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHwnDecorationWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrHwnDecorationWall_Remake_2_0.png"
     },
     {
       "variant": "Monochrome",
@@ -17692,7 +17692,7 @@
       },
       "buy-price": null,
       "sell-price": 1650,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHwnDecorationWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrHwnDecorationWall_Remake_3_0.png"
     }
   ],
   "starry_garland": [
@@ -17742,7 +17742,7 @@
       },
       "buy-price": null,
       "sell-price": 5000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrStarDecorationWall_Remake_0_0.png"
     },
     {
       "variant": "Green",
@@ -17790,7 +17790,7 @@
       },
       "buy-price": null,
       "sell-price": 5000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrStarDecorationWall_Remake_1_0.png"
     },
     {
       "variant": "Blue",
@@ -17838,7 +17838,7 @@
       },
       "buy-price": null,
       "sell-price": 5000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrStarDecorationWall_Remake_2_0.png"
     },
     {
       "variant": "Purple",
@@ -17886,7 +17886,7 @@
       },
       "buy-price": null,
       "sell-price": 5000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrStarDecorationWall_Remake_3_0.png"
     },
     {
       "variant": "Pink",
@@ -17934,7 +17934,7 @@
       },
       "buy-price": null,
       "sell-price": 5000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrStarDecorationWall_Remake_4_0.png"
     },
     {
       "variant": "Orange",
@@ -17982,7 +17982,7 @@
       },
       "buy-price": null,
       "sell-price": 5000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrStarDecorationWall_Remake_5_0.png"
     },
     {
       "variant": "White",
@@ -18030,7 +18030,7 @@
       },
       "buy-price": null,
       "sell-price": 5000,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_6_0"
+      "image_uri": "/images/furniture/FtrStarDecorationWall_Remake_6_0.png"
     }
   ],
   "studio_wall_spotlight": [
@@ -18080,7 +18080,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_0_0.png"
     },
     {
       "variant": "Yellow",
@@ -18128,7 +18128,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_1_0.png"
     },
     {
       "variant": "Orange",
@@ -18176,7 +18176,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -18224,7 +18224,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_3_0.png"
     },
     {
       "variant": "Pink",
@@ -18272,7 +18272,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_4_0.png"
     },
     {
       "variant": "Purple",
@@ -18320,7 +18320,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_5_0.png"
     },
     {
       "variant": "Blue",
@@ -18368,7 +18368,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_6_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_6_0.png"
     },
     {
       "variant": "Green",
@@ -18416,7 +18416,7 @@
       },
       "buy-price": 2300,
       "sell-price": 575,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_7_0"
+      "image_uri": "/images/furniture/FtrLampSpotWall_Remake_7_0.png"
     }
   ],
   "study_poster": [
@@ -18466,7 +18466,7 @@
       },
       "buy-price": 640,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_0_0"
+      "image_uri": "/images/furniture/FtrStudyposter_Remake_0_0.png"
     },
     {
       "variant": "Multiplication tables",
@@ -18514,7 +18514,7 @@
       },
       "buy-price": 640,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_1_0"
+      "image_uri": "/images/furniture/FtrStudyposter_Remake_1_0.png"
     },
     {
       "variant": "Periodic table",
@@ -18562,7 +18562,7 @@
       },
       "buy-price": 640,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_2_0"
+      "image_uri": "/images/furniture/FtrStudyposter_Remake_2_0.png"
     },
     {
       "variant": "Constellations",
@@ -18610,7 +18610,7 @@
       },
       "buy-price": 640,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_3_0"
+      "image_uri": "/images/furniture/FtrStudyposter_Remake_3_0.png"
     }
   ],
   "surveillance_camera": [
@@ -18660,7 +18660,7 @@
       },
       "buy-price": 1000,
       "sell-price": 250,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSurveillance"
+      "image_uri": "/images/furniture/FtrSurveillance.png"
     }
   ],
   "tapestry": [
@@ -18710,7 +18710,7 @@
       },
       "buy-price": 880,
       "sell-price": 220,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_0_0"
+      "image_uri": "/images/furniture/FtrTapestry_Remake_0_0.png"
     },
     {
       "variant": "Animal",
@@ -18758,7 +18758,7 @@
       },
       "buy-price": 880,
       "sell-price": 220,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_1_0"
+      "image_uri": "/images/furniture/FtrTapestry_Remake_1_0.png"
     },
     {
       "variant": "Floral",
@@ -18806,7 +18806,7 @@
       },
       "buy-price": 880,
       "sell-price": 220,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_2_0"
+      "image_uri": "/images/furniture/FtrTapestry_Remake_2_0.png"
     },
     {
       "variant": "Fairy tale",
@@ -18854,7 +18854,7 @@
       },
       "buy-price": 880,
       "sell-price": 220,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_3_0"
+      "image_uri": "/images/furniture/FtrTapestry_Remake_3_0.png"
     },
     {
       "variant": "Bird",
@@ -18902,7 +18902,7 @@
       },
       "buy-price": 880,
       "sell-price": 220,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_4_0"
+      "image_uri": "/images/furniture/FtrTapestry_Remake_4_0.png"
     },
     {
       "variant": "Snow",
@@ -18950,7 +18950,7 @@
       },
       "buy-price": 880,
       "sell-price": 220,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_5_0"
+      "image_uri": "/images/furniture/FtrTapestry_Remake_5_0.png"
     }
   ],
   "throwback_wall_clock": [
@@ -19000,7 +19000,7 @@
       },
       "buy-price": 4200,
       "sell-price": 1050,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrBoyClockWall_Remake_0_0.png"
     },
     {
       "variant": "Red",
@@ -19048,7 +19048,7 @@
       },
       "buy-price": 4200,
       "sell-price": 1050,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrBoyClockWall_Remake_1_0.png"
     },
     {
       "variant": "Green",
@@ -19096,7 +19096,7 @@
       },
       "buy-price": 4200,
       "sell-price": 1050,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrBoyClockWall_Remake_2_0.png"
     },
     {
       "variant": "Blue",
@@ -19144,7 +19144,7 @@
       },
       "buy-price": 4200,
       "sell-price": 1050,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrBoyClockWall_Remake_3_0.png"
     },
     {
       "variant": "White",
@@ -19192,7 +19192,7 @@
       },
       "buy-price": 4200,
       "sell-price": 1050,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrBoyClockWall_Remake_4_0.png"
     },
     {
       "variant": "Gray",
@@ -19240,7 +19240,7 @@
       },
       "buy-price": 4200,
       "sell-price": 1050,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrBoyClockWall_Remake_5_0.png"
     },
     {
       "variant": "Purple",
@@ -19288,7 +19288,7 @@
       },
       "buy-price": 4200,
       "sell-price": 1050,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_6_0"
+      "image_uri": "/images/furniture/FtrBoyClockWall_Remake_6_0.png"
     }
   ],
   "timber_doorplate": [
@@ -19338,7 +19338,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_0_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_0_0.png"
     },
     {
       "variant": "Brown",
@@ -19386,7 +19386,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_1_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_1_0.png"
     },
     {
       "variant": "Dark brown",
@@ -19434,7 +19434,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_2_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_2_0.png"
     },
     {
       "variant": "Light brown",
@@ -19482,7 +19482,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_3_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_3_0.png"
     },
     {
       "variant": "Ash brown",
@@ -19530,7 +19530,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_4_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_4_0.png"
     },
     {
       "variant": "Black",
@@ -19578,7 +19578,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_5_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_5_0.png"
     },
     {
       "variant": "Blue",
@@ -19626,7 +19626,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_6_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_6_0.png"
     },
     {
       "variant": "Pink",
@@ -19674,7 +19674,7 @@
       },
       "buy-price": null,
       "sell-price": 400,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_7_0"
+      "image_uri": "/images/furniture/FtrDoorOrnamentLog_Remake_7_0.png"
     }
   ],
   "Toy_Day_stockings": [
@@ -19724,7 +19724,7 @@
       },
       "buy-price": null,
       "sell-price": 500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCrsSocksWall"
+      "image_uri": "/images/furniture/FtrCrsSocksWall.png"
     }
   ],
   "tree_branch_wreath": [
@@ -19774,7 +19774,7 @@
       },
       "buy-price": null,
       "sell-price": 100,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathBranch"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathBranch.png"
     }
   ],
   "tree's_bounty_mobile": [
@@ -19824,7 +19824,7 @@
       },
       "buy-price": null,
       "sell-price": 2030,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrNutMobile_Remake_0_0"
+      "image_uri": "/images/furniture/FtrNutMobile_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -19872,7 +19872,7 @@
       },
       "buy-price": null,
       "sell-price": 2030,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrNutMobile_Remake_1_0"
+      "image_uri": "/images/furniture/FtrNutMobile_Remake_1_0.png"
     }
   ],
   "tulip_wreath": [
@@ -19922,7 +19922,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathTulip"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathTulip.png"
     }
   ],
   "ventilation_fan": [
@@ -19972,7 +19972,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_0_0"
+      "image_uri": "/images/furniture/FtrExtractorfan_Remake_0_0.png"
     },
     {
       "variant": "Pink",
@@ -20020,7 +20020,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_1_0"
+      "image_uri": "/images/furniture/FtrExtractorfan_Remake_1_0.png"
     },
     {
       "variant": "Blue",
@@ -20068,7 +20068,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_2_0"
+      "image_uri": "/images/furniture/FtrExtractorfan_Remake_2_0.png"
     },
     {
       "variant": "Green",
@@ -20116,7 +20116,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_3_0"
+      "image_uri": "/images/furniture/FtrExtractorfan_Remake_3_0.png"
     },
     {
       "variant": "Orange",
@@ -20164,7 +20164,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_4_0"
+      "image_uri": "/images/furniture/FtrExtractorfan_Remake_4_0.png"
     }
   ],
   "wall_clock": [
@@ -20214,7 +20214,7 @@
       },
       "buy-price": 690,
       "sell-price": 172,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_0_0"
+      "image_uri": "/images/furniture/FtrOfficeClock_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -20262,7 +20262,7 @@
       },
       "buy-price": 690,
       "sell-price": 172,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_1_0"
+      "image_uri": "/images/furniture/FtrOfficeClock_Remake_1_0.png"
     },
     {
       "variant": "Black",
@@ -20310,7 +20310,7 @@
       },
       "buy-price": 690,
       "sell-price": 172,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_2_0"
+      "image_uri": "/images/furniture/FtrOfficeClock_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -20358,7 +20358,7 @@
       },
       "buy-price": 690,
       "sell-price": 172,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_3_0"
+      "image_uri": "/images/furniture/FtrOfficeClock_Remake_3_0.png"
     },
     {
       "variant": "Blue",
@@ -20406,7 +20406,7 @@
       },
       "buy-price": 690,
       "sell-price": 172,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_4_0"
+      "image_uri": "/images/furniture/FtrOfficeClock_Remake_4_0.png"
     }
   ],
   "wall_fan": [
@@ -20456,7 +20456,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_0_0.png"
     },
     {
       "variant": "Blue",
@@ -20504,7 +20504,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_1_0.png"
     },
     {
       "variant": "Red",
@@ -20552,7 +20552,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_2_0.png"
     },
     {
       "variant": "Yellow",
@@ -20600,7 +20600,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_3_0.png"
     },
     {
       "variant": "White",
@@ -20648,7 +20648,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_4_0.png"
     },
     {
       "variant": "Black",
@@ -20696,7 +20696,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_5_0.png"
     },
     {
       "variant": "Silver",
@@ -20744,7 +20744,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_6_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_6_0.png"
     },
     {
       "variant": "Brown",
@@ -20792,7 +20792,7 @@
       },
       "buy-price": 1400,
       "sell-price": 350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_7_0"
+      "image_uri": "/images/furniture/FtrFanRetroWall_Remake_7_0.png"
     }
   ],
   "wall-mounted_candle": [
@@ -20842,7 +20842,7 @@
       },
       "buy-price": 800,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrCandleWall_Remake_0_0.png"
     },
     {
       "variant": "Silver",
@@ -20890,7 +20890,7 @@
       },
       "buy-price": 800,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrCandleWall_Remake_1_0.png"
     },
     {
       "variant": "Copper",
@@ -20938,7 +20938,7 @@
       },
       "buy-price": 800,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrCandleWall_Remake_2_0.png"
     },
     {
       "variant": "Black",
@@ -20986,7 +20986,7 @@
       },
       "buy-price": 800,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrCandleWall_Remake_3_0.png"
     },
     {
       "variant": "White",
@@ -21034,7 +21034,7 @@
       },
       "buy-price": 800,
       "sell-price": 200,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrCandleWall_Remake_4_0.png"
     }
   ],
   "wall-mounted_phone": [
@@ -21084,7 +21084,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrPhoneWall_Remake_0_0.png"
     },
     {
       "variant": "Black",
@@ -21132,7 +21132,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrPhoneWall_Remake_1_0.png"
     },
     {
       "variant": "Silver",
@@ -21180,7 +21180,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrPhoneWall_Remake_2_0.png"
     },
     {
       "variant": "Gray",
@@ -21228,7 +21228,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrPhoneWall_Remake_3_0.png"
     },
     {
       "variant": "Red",
@@ -21276,7 +21276,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrPhoneWall_Remake_4_0.png"
     },
     {
       "variant": "Blue",
@@ -21324,7 +21324,7 @@
       },
       "buy-price": 1300,
       "sell-price": 325,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrPhoneWall_Remake_5_0.png"
     }
   ],
   "wall-mounted_tool_board": [
@@ -21374,7 +21374,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_0_0"
+      "image_uri": "/images/furniture/FtrToolhanger_Remake_0_0.png"
     },
     {
       "variant": "Camel",
@@ -21422,7 +21422,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_1_0"
+      "image_uri": "/images/furniture/FtrToolhanger_Remake_1_0.png"
     },
     {
       "variant": "Yellow",
@@ -21470,7 +21470,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_2_0"
+      "image_uri": "/images/furniture/FtrToolhanger_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -21518,7 +21518,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_3_0"
+      "image_uri": "/images/furniture/FtrToolhanger_Remake_3_0.png"
     },
     {
       "variant": "Blue",
@@ -21566,7 +21566,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_4_0"
+      "image_uri": "/images/furniture/FtrToolhanger_Remake_4_0.png"
     },
     {
       "variant": "Black",
@@ -21614,7 +21614,7 @@
       },
       "buy-price": 1500,
       "sell-price": 375,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_5_0"
+      "image_uri": "/images/furniture/FtrToolhanger_Remake_5_0.png"
     }
   ],
   "wall-mounted_TV_(20_in.)": [
@@ -21664,7 +21664,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -21712,7 +21712,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_1_0.png"
     },
     {
       "variant": "Silver",
@@ -21760,7 +21760,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -21808,7 +21808,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_3_0.png"
     },
     {
       "variant": "Yellow",
@@ -21856,7 +21856,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_4_0.png"
     },
     {
       "variant": "Blue",
@@ -21904,7 +21904,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_5_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_5_0.png"
     },
     {
       "variant": "Pink",
@@ -21952,7 +21952,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_6_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_6_0.png"
     },
     {
       "variant": "Light blue",
@@ -22000,7 +22000,7 @@
       },
       "buy-price": 8900,
       "sell-price": 2225,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_7_0"
+      "image_uri": "/images/furniture/FtrTV20inchWall_Remake_7_0.png"
     }
   ],
   "wall-mounted_TV_(50_in.)": [
@@ -22050,7 +22050,7 @@
       },
       "buy-price": 22000,
       "sell-price": 5500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrTV50inchWall_Remake_0_0.png"
     },
     {
       "variant": "White",
@@ -22098,7 +22098,7 @@
       },
       "buy-price": 22000,
       "sell-price": 5500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrTV50inchWall_Remake_1_0.png"
     },
     {
       "variant": "Silver",
@@ -22146,7 +22146,7 @@
       },
       "buy-price": 22000,
       "sell-price": 5500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrTV50inchWall_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -22194,7 +22194,7 @@
       },
       "buy-price": 22000,
       "sell-price": 5500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_3_0"
+      "image_uri": "/images/furniture/FtrTV50inchWall_Remake_3_0.png"
     },
     {
       "variant": "Blue",
@@ -22242,7 +22242,7 @@
       },
       "buy-price": 22000,
       "sell-price": 5500,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_4_0"
+      "image_uri": "/images/furniture/FtrTV50inchWall_Remake_4_0.png"
     }
   ],
   "wasp-head_model": [
@@ -22292,7 +22292,7 @@
       },
       "buy-price": 2500,
       "sell-price": 625,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrInsectHachiFace"
+      "image_uri": "/images/furniture/FtrInsectHachiFace.png"
     }
   ],
   "wedding_decoration": [
@@ -22342,7 +22342,7 @@
       },
       "buy-price": null,
       "sell-price": 250,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWeddingFlowerWall_Remake_0_0"
+      "image_uri": "/images/furniture/FtrWeddingFlowerWall_Remake_0_0.png"
     },
     {
       "variant": "Chic",
@@ -22390,7 +22390,7 @@
       },
       "buy-price": null,
       "sell-price": 250,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWeddingFlowerWall_Remake_1_0"
+      "image_uri": "/images/furniture/FtrWeddingFlowerWall_Remake_1_0.png"
     },
     {
       "variant": "Garden",
@@ -22438,7 +22438,7 @@
       },
       "buy-price": null,
       "sell-price": 250,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWeddingFlowerWall_Remake_2_0"
+      "image_uri": "/images/furniture/FtrWeddingFlowerWall_Remake_2_0.png"
     }
   ],
   "windflower_wreath": [
@@ -22488,7 +22488,7 @@
       },
       "buy-price": null,
       "sell-price": 720,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathAnemone"
+      "image_uri": "/images/furniture/FtrDoorOrnamentWreathAnemone.png"
     }
   ],
   "wooden-block_wall_clock": [
@@ -22538,7 +22538,7 @@
       },
       "buy-price": null,
       "sell-price": 1350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_0_0"
+      "image_uri": "/images/furniture/FtrBlockClock_Remake_0_0.png"
     },
     {
       "variant": "Mixed wood",
@@ -22586,7 +22586,7 @@
       },
       "buy-price": null,
       "sell-price": 1350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_1_0"
+      "image_uri": "/images/furniture/FtrBlockClock_Remake_1_0.png"
     },
     {
       "variant": "Colorful",
@@ -22634,7 +22634,7 @@
       },
       "buy-price": null,
       "sell-price": 1350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_2_0"
+      "image_uri": "/images/furniture/FtrBlockClock_Remake_2_0.png"
     },
     {
       "variant": "Pastel",
@@ -22682,7 +22682,7 @@
       },
       "buy-price": null,
       "sell-price": 1350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_3_0"
+      "image_uri": "/images/furniture/FtrBlockClock_Remake_3_0.png"
     },
     {
       "variant": "Vivid",
@@ -22730,7 +22730,7 @@
       },
       "buy-price": null,
       "sell-price": 1350,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_4_0"
+      "image_uri": "/images/furniture/FtrBlockClock_Remake_4_0.png"
     }
   ],
   "wooden-plank_sign": [
@@ -22780,7 +22780,7 @@
       },
       "buy-price": null,
       "sell-price": 600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_0_0"
+      "image_uri": "/images/furniture/FtrSignboardWood_Remake_0_0.png"
     },
     {
       "variant": "Dark brown",
@@ -22828,7 +22828,7 @@
       },
       "buy-price": null,
       "sell-price": 600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_1_0"
+      "image_uri": "/images/furniture/FtrSignboardWood_Remake_1_0.png"
     },
     {
       "variant": "Brown",
@@ -22876,7 +22876,7 @@
       },
       "buy-price": null,
       "sell-price": 600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_2_0"
+      "image_uri": "/images/furniture/FtrSignboardWood_Remake_2_0.png"
     },
     {
       "variant": "Red",
@@ -22924,7 +22924,7 @@
       },
       "buy-price": null,
       "sell-price": 600,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_3_0"
+      "image_uri": "/images/furniture/FtrSignboardWood_Remake_3_0.png"
     }
   ],
   "world_map": [
@@ -22974,7 +22974,7 @@
       },
       "buy-price": 640,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWorldMap_Remake_0_0"
+      "image_uri": "/images/furniture/FtrWorldMap_Remake_0_0.png"
     },
     {
       "variant": "Atlantic Ocean",
@@ -23022,7 +23022,7 @@
       },
       "buy-price": 640,
       "sell-price": 160,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWorldMap_Remake_1_0"
+      "image_uri": "/images/furniture/FtrWorldMap_Remake_1_0.png"
     }
   ],
   "shamrock_doorplate": [
@@ -23072,7 +23072,7 @@
       },
       "buy-price": 1200,
       "sell-price": 300,
-      "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentShamrock"
+      "image_uri": "/images/furniture/FtrDoorOrnamentShamrock.png"
     }
   ]
 }
