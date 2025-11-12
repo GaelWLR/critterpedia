@@ -2,16 +2,18 @@ export default {
   art: 'Art',
   bugs: 'Insectes',
   buy: 'Achat',
-  buyPrice: 'Prix d\'achat',
+  buyPrice: "Prix d'achat",
   fishes: 'Poissons',
   fossils: 'Fossiles',
   home: 'Accueil',
   location: 'Lieu',
   name: 'Nom',
   price: 'Prix',
+  sea_creatures: 'Créatures marines',
   sell: 'Vente',
   sellPrice: 'Prix de vente',
   shadow: 'Ombre',
+  speed: 'Vitesse',
 
   // Sorting options
   sort_by_name: 'Trier par nom',
@@ -74,6 +76,13 @@ export default {
   narrow: 'Minuscule',
   small: 'Petite',
   smallest: 'Très petite',
+
+  // Sea creature speed
+  stationary: 'Immobile',
+  very_slow: 'Très lente',
+  slow: 'Lente',
+  fast: 'Rapide',
+  very_fast: 'Très rapide',
 
   // Message
   display_price: '{price} clochettes',

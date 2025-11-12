@@ -50,6 +50,18 @@ export default class ACNHApiResource {
     return ''
   }
 
+  /**
+   * Returns the resource speed in the current locale
+   * @returns {string}
+   */
+  get speed() {
+    if (this._speed) {
+      return i18n.t(this._speed)
+    }
+
+    return ''
+  }
+
   get price() {
     return i18n.t('display_price', { price: this._price })
   }

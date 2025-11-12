@@ -1,11 +1,19 @@
 <template>
   <nav class="navbar-container">
-    <router-link class="navbar-link" v-for="(link, key) in links" :key="key" :to="{ name: link.name }">
+    <router-link class="navbar-link navbar-link-fixed" :to="{ name: 'home' }">
       <i class="link-icon">
-        <font-awesome-icon :icon="['fas', link.icon]" />
+        <font-awesome-icon :icon="['fas', 'home']" />
       </i>
-      <span class="link-text">{{ $t(link.name) }}</span>
+      <span class="link-text">{{ $t('home') }}</span>
     </router-link>
+    <div class="navbar-scrollable" ref="navbar">
+      <router-link class="navbar-link" v-for="(link, key) in scrollableLinks" :key="key" :to="{ name: link.name }">
+        <i class="link-icon">
+          <font-awesome-icon :icon="['fas', link.icon]" />
+        </i>
+        <span class="link-text">{{ $t(link.name) }}</span>
+      </router-link>
+    </div>
   </nav>
 </template>
 
@@ -14,11 +22,7 @@ export default {
   name: 'NavBar',
   data() {
     return {
-      links: [
-        {
-          name: 'home',
-          icon: 'home'
-        },
+      scrollableLinks: [
         {
           name: 'art',
           icon: 'palette'
@@ -34,6 +38,10 @@ export default {
         {
           name: 'fossils',
           icon: 'bone'
+        },
+        {
+          name: 'sea_creatures',
+          icon: 'anchor'
         }
       ]
     }
@@ -50,23 +58,51 @@ export default {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-evenly;
   list-style: none;
   padding: 0;
   margin: 0;
-  overflow: hidden;
   filter: grayscale(20%);
 
   @media screen and (min-width: #{$tablet-breakpoint}) {
     flex-direction: column;
     align-items: flex-start;
-    justify-content: start;
 
     &:hover {
       .link-text {
         display: block;
       }
     }
+  }
+}
+
+.navbar-scrollable {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex: 1;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+
+  // Scrollbar visible mais stylée sur mobile
+  &::-webkit-scrollbar {
+    height: 4px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: rgba($tertiary-color, 0.1);
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: rgba($tertiary-color, 0.5);
+    border-radius: 2px;
+  }
+
+  @media screen and (min-width: #{$tablet-breakpoint}) {
+    flex-direction: column;
+    align-items: flex-start;
+    overflow: hidden;
   }
 }
 
@@ -78,6 +114,7 @@ export default {
   color: $tertiary-color;
   filter: grayscale(20%) opacity(0.6);
   transition: $transition-speed;
+  flex-shrink: 0; // Empêche les items de rétrécir sur mobile
 
   &:hover {
     filter: grayscale(0%) opacity(1);
@@ -86,6 +123,10 @@ export default {
   @media screen and (min-width: #{$tablet-breakpoint}) {
     width: 100%;
   }
+}
+
+.navbar-link-fixed {
+  flex-shrink: 0; // Toujours garde sa taille sur mobile
 }
 
 .link-icon {
@@ -105,6 +146,8 @@ export default {
   font-size: 1.4rem;
   font-weight: bold;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
   @media screen and (min-width: #{$desktop-breakpoint}) {
     display: block;

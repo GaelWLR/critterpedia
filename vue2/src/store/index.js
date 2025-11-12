@@ -4,6 +4,7 @@ import art from './modules/art'
 import bugs from './modules/bugs'
 import fishes from './modules/fishes'
 import fossils from './modules/fossils'
+import sea from './modules/sea'
 
 Vue.use(Vuex)
 
@@ -12,7 +13,8 @@ export default new Vuex.Store({
     art,
     bugs,
     fishes,
-    fossils
+    fossils,
+    sea
   },
   state: {},
   getters: {
@@ -73,6 +75,14 @@ export default new Vuex.Store({
         const selectedLocation = getSelected(location)
         if (selectedLocation != 'all') {
           resources = resources.filter(resource => resource._location.split('_&_').includes(selectedLocation))
+        }
+      }
+
+      const { speed } = state[resourceName].filters
+      if (speed) {
+        const selectedSpeed = getSelected(speed)
+        if (selectedSpeed != 'all') {
+          resources = resources.filter(resource => resource._speed == selectedSpeed)
         }
       }
 

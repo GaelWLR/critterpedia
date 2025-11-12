@@ -9,9 +9,11 @@ export default {
   location: 'Location',
   name: 'Name',
   price: 'Price',
+  sea_creatures: 'Sea Creatures',
   sell: 'Sell',
   sellPrice: 'Sell price',
   shadow: 'Shadow',
+  speed: 'Speed',
 
   // Sorting options
   sort_by_name: 'Sort by name',
@@ -74,6 +76,13 @@ export default {
   narrow: 'Narrow',
   small: 'Small',
   smallest: 'Smallest',
+
+  // Sea creature speed
+  stationary: 'Stationary',
+  very_slow: 'Very slow',
+  slow: 'Slow',
+  fast: 'Fast',
+  very_fast: 'Very fast',
 
   // Message
   display_price: '{price} bells',

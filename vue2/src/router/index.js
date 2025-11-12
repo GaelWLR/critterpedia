@@ -6,6 +6,7 @@ import Bugs from '../views/Bugs.vue'
 import Fishes from '../views/Fishes.vue'
 import Fossils from '../views/Fossils.vue'
 import Home from '../views/Home.vue'
+import SeaCreatures from '../views/SeaCreatures.vue'
 
 Vue.use(VueRouter)
 
@@ -36,6 +37,11 @@ const router = new VueRouter({
       path: '/fossils',
       name: 'fossils',
       component: Fossils
+    },
+    {
+      path: '/sea-creatures',
+      name: 'sea_creatures',
+      component: SeaCreatures
     }
   ]
 })

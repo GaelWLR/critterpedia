@@ -5,6 +5,7 @@ import store from './store'
 import i18n from './plugins/i18n'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import {
+  faAnchor,
   faBone,
   faBug,
   faFish,
@@ -25,6 +26,7 @@ import './assets/css/common.scss'
 Vue.config.productionTip = false
 
 library.add(
+  faAnchor,
   faBone,
   faBug,
   faFish,
