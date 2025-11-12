@@ -34,7 +34,7 @@ All implementations will include:
 
 All framework implementations share the same data and assets located in the `shared/` directory:
 
-- **Data**: JSON files for bugs, fish, fossils, sea creatures, art, villagers, music, and furniture
+- **Data**: JSON files for bugs, fish, fossils, sea creatures, art, villagers, and music
 - **Images**: PNG images for all items and villagers
 - **Audio**: MP3 files for K.K. Slider songs and hourly music
 - **Icons**: SVG icons for UI elements
@@ -46,7 +46,7 @@ Each framework accesses these shared assets via symlinks in their respective `pu
 ```
 critterpedia/
 ├── shared/              # Shared assets across all implementations
-│   ├── data/           # JSON files (bugs, fish, fossils, sea, art, villagers, music, furniture)
+│   ├── data/           # JSON files (bugs, fish, fossils, sea, art, villagers, music)
 │   ├── images/         # PNG images for all items
 │   ├── audio/          # MP3 files for music
 │   └── icons/          # SVG icons

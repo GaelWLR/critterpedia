@@ -11,7 +11,7 @@ critterpedia is a multi-framework comparison project that implements the same An
 ```
 critterpedia/
 ├── shared/              # Shared assets across all implementations
-│   ├── data/           # JSON files: bugs, fish, fossils, sea, art, villagers, music, furniture
+│   ├── data/           # JSON files: bugs, fish, fossils, sea, art, villagers, music
 │   ├── images/         # PNG images for all items and villagers
 │   ├── audio/          # MP3 files for K.K. Slider songs and hourly music
 │   └── icons/          # SVG icons
